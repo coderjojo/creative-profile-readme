@@ -4,7 +4,7 @@ Curated list of Developer Github Profiles for your inspiration.
 
 Contribute in this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
-This repo was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
+This repository was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
 
 Make your Profile look good & Inspire other's.
 
