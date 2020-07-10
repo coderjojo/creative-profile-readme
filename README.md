@@ -49,6 +49,7 @@ Make your Profile look good & Inspire other's.
 ## T
 
 ## V
+- [Vedant Jajoo](https://github.com/coderjojo)
 
 ## W
 
