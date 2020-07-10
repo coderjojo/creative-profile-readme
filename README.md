@@ -1,4 +1,4 @@
-# Developer Portfolios
+# Awesome Developer Profile
 
 Curated list of Developer Github Profiles for your inspiration.
 
