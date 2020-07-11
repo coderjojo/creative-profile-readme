@@ -12,7 +12,7 @@ Make your Profile look good & Inspire other's.
 
 ## A
 
-* [afc163](https://github.com/afc163)
+- [afc163](https://github.com/afc163)
 
 ## B
 
@@ -53,8 +53,10 @@ Make your Profile look good & Inspire other's.
 
 ## V
 - [Vedant Jajoo](https://github.com/coderjojo)
+- [Vimal Kumar](https://github.com/vimalverma558)
 
 ## W
+- [Waylon Walker](https://github.com/WaylonWalker)
 
 ## Y
 
