@@ -15,6 +15,7 @@ Make your Profile look good & Inspire other's.
 - [afc163](https://github.com/afc163)
 
 ## B
+- [Brian Douglas](https://github.com/bdougie)
 
 ## C
 
@@ -31,6 +32,7 @@ Make your Profile look good & Inspire other's.
 ## I
 
 ## J
+- [Jason Lengstorf](https://github.com/jlengstorf)
 
 ## K
 
@@ -38,6 +40,7 @@ Make your Profile look good & Inspire other's.
 
 ## M
 - [Mpho Mphego](https://github.com/mmphego/)
+- [Monica Powell](https://github.com/M0nica)
 
 ## N
 
@@ -49,6 +52,7 @@ Make your Profile look good & Inspire other's.
 ## R
 
 ## S
+- [Simon Willison](https://github.com/simonw)
 
 ## T
 
