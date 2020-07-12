@@ -34,6 +34,7 @@ Make your Profile look good & Inspire other's.
 
 ## I
 - [Ivan](https://github.com/imickovski)
+- [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
 
 ## J
 - [Jason Lengstorf](https://github.com/jlengstorf)
