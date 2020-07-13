@@ -57,7 +57,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## O
 - [OOQQ](https://github.com/OOQQ)
-- [Oscar] (https://github.com/blue-1ms)
+- [Oscar](https://github.com/blue-1ms)
 
 ## P
 - [Piyush Suthar](https://github.com/piyushsuthar)
