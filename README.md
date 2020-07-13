@@ -17,6 +17,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [afc163](https://github.com/afc163)
 - [Adrian Sudbury](https://github.com/asudbury)
 - [Anurag Hazra](https://github.com/anuraghazra)
+- [Ari](https://github.com/ari-hacks)
 
 ## B
 - [Brian Douglas](https://github.com/bdougie)
