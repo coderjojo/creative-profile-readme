@@ -55,6 +55,7 @@ Make your Profile look good & Inspire other's.
 - [OOQQ](https://github.com/OOQQ)
 
 ## P
+- [Piyush Suthar](https://github.com/piyushsuthar)
 - [Pouya Saadeghi](https://github.com/saadeghi)
 
 ## R
