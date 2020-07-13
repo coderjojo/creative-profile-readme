@@ -1,6 +1,6 @@
 # Awesome Developer Profile
 
-Curated list of Developer Github Profiles for your inspiration. 
+Curated list of Developer Github Profiles for your inspiration.
 
 Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/coderjojo/github-new-feature-to-add-readme-on-your-profile-ggc)
 
@@ -64,6 +64,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## R
 
 ## S
+- [Shaan Khan](https://github.com/ShaanCoding)
 - [Simon Willison](https://github.com/simonw)
 - [Sindre Sorhus](https://github.com/sindresorhus)
 
