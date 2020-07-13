@@ -1,12 +1,14 @@
 # Awesome Developer Profile
 
-Curated list of Developer Github Profiles for your inspiration.
+Curated list of Developer Github Profiles for your inspiration. 
 
-Contribute in this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
+Follow this guide: [GitHub new feature to add README on your Profile ](https://dev.to/coderjojo/github-new-feature-to-add-readme-on-your-profile-ggc)
+
+Contribute to this repository by opening a [PR](./CONTRIBUTING.md) to this repository. Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
 This repository was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
 
-Make your Profile look good & Inspire other's.
+Make your Profile look good & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
 ---
 
