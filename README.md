@@ -39,6 +39,7 @@ Make your Profile look good & Inspire other's.
 
 ## J
 - [Jason Lengstorf](https://github.com/jlengstorf)
+- [Jaye Hernandez](https://github.com/jayehernandez)
 
 ## K
 
