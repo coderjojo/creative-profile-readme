@@ -22,6 +22,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Brian Douglas](https://github.com/bdougie)
 
 ## C
+- [Claudio Wunder](https://github.com/ovflowd)
 
 ## D
 
@@ -67,6 +68,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Sindre Sorhus](https://github.com/sindresorhus)
 
 ## T
+- [Thaiane Braga](https://github.com/Thaiane)
 - [Tim Burgan](https://github.com/timburgan)
 
 ## V
