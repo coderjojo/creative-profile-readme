@@ -42,6 +42,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
 
 ## J
+- [Jacques Blom](https://github.com/jacques-blom)
 - [Jason Lengstorf](https://github.com/jlengstorf)
 - [Jaye Hernandez](https://github.com/jayehernandez)
 
