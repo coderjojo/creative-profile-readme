@@ -14,21 +14,53 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## A
 - [Abhinav Sharma](https://github.com/ABSphreak)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ABSphreak.png">
+  </details>
 - [afc163](https://github.com/afc163)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/afc163.png">
+  </details>
 - [Adrian Sudbury](https://github.com/asudbury)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/asudbury.png">
+  </details>
 - [Anurag Hazra](https://github.com/anuraghazra)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/anuraghazra.png">
+  </details>
 - [Ari](https://github.com/ari-hacks)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ari-hacks.png">
+  </details>
 
 ## B
 - [Brian Douglas](https://github.com/bdougie)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/bdougie.png">
+  </details>
 
 ## C
 - [Claudio Wunder](https://github.com/ovflowd)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ovflowd.png">
+  </details>
 
 ## D
 
 ## E
 - [Eana Hufwe](https://github.com/blueset)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/blueset.png">
+  </details>
 
 ## F
 
@@ -38,13 +70,37 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## I
 - [Ian Sebastian Mathew](https://github.com/iansmathew)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/iansmathew.png">
+  </details>
 - [Ivan](https://github.com/imickovski)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/imickovski.png">
+  </details>
 - [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Israel-Laguan.png">
+  </details>
 
 ## J
 - [Jacques Blom](https://github.com/jacques-blom)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/jacques-blom.png">
+  </details>
 - [Jason Lengstorf](https://github.com/jlengstorf)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/jlengstorf.png">
+  </details>
 - [Jaye Hernandez](https://github.com/jayehernandez)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/jayehernandez.png">
+  </details>
 
 ## K
 
@@ -52,35 +108,97 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## M
 - [Mpho Mphego](https://github.com/mmphego/)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/mmphego.png">
+  </details>
 - [Monica Powell](https://github.com/M0nica)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/M0nica.png">
+  </details>
 
 ## N
 
 ## O
 - [OOQQ](https://github.com/OOQQ)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/OOQQ.png">
+  </details>
 - [Oscar](https://github.com/blue-1ms)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/blue-1ms.png">
+  </details>
 
 ## P
 - [Piyush Suthar](https://github.com/piyushsuthar)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/piyushsuthar.png">
+  </details>
 - [Pouya Saadeghi](https://github.com/saadeghi)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/saadeghi.png">
+
+    Don't try to play it here!
+  </details>
 
 ## R
 
 ## S
 - [Shaan Khan](https://github.com/ShaanCoding)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ShaanCoding.png">
+  </details>
 - [Simon Willison](https://github.com/simonw)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/simonw.png">
+  </details>
 - [Sindre Sorhus](https://github.com/sindresorhus)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/sindresorhus.png">
+
+    Yes, it's a GIF of a Loading Octocat!
+  </details>
 
 ## T
 - [Thaiane Braga](https://github.com/Thaiane)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Thaiane.png">
+  </details>
 - [Tim Burgan](https://github.com/timburgan)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/timburgan.png">
+
+    Too large to fit, too fun to not play!
+  </details>
 
 ## V
 - [Vedant Jajoo](https://github.com/coderjojo)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/coderjojo.png">
+  </details>
 - [Vimal Kumar](https://github.com/vimalverma558)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/vimalverma558.png">
+  </details>
 
 ## W
 - [Waylon Walker](https://github.com/WaylonWalker)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/WaylonWalker.png">
+  </details>
 
 ## Y
 
