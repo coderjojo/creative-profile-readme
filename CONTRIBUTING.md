@@ -5,6 +5,22 @@ Working on your first Pull Request? Refer [First Contribution Guide](https://git
 
 1. Fork this repository.
 2. Clone the your new repository to your system.
-3. Add your profile. Remember to add **alphabetically to the list.**
-4. Commit changes and push. **Note** Commit message format: Added [Profile Name] profile
-5. Open and submit a PR. :tada:
+3. Add your profile. Remember to add **alphabetically to the list.** Please use this format: `[Name](link to your GitHub Profile)`
+4. Add a screenshot with the final result, following this format (Substitute \<Username> with your GitHub's Username):
+
+    ```html
+    <details>
+        <summary>Preview</summary>
+        <img src="EXAMPLES/<Username>.png">
+    </details>
+    ```
+
+    The image must be max 640 px height, can be PNG or JP(E)G only.
+5. Commit changes and push. **Note** Commit message format: Added [Profile Name] profile.
+6. Open and submit a PR. :tada:
+
+## Considerations
+
+- Please don't upload big screenshots
+- Don't use GIFs, GIFs can be too much for some people with low bandwidth (or navigating from phone), also if the height is too large it can cover all the viewport and being unrespectful of other profiles.
+- Be sure the screenshot DON'T shows any image or text promoting real, psychological, or simulated violence against any individual or group. If any profile is found violating this, should be removed.
