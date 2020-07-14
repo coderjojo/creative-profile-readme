@@ -8,12 +8,12 @@ Working on your first Pull Request? Refer [First Contribution Guide](https://git
 3. Add your profile. Remember to add **alphabetically to the list.** Please use this format: `[Name](link to your GitHub Profile)`
 4. Add a screenshot with the final result, following this format (Substitute \<Username> with your GitHub's Username):
 
-```html
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/<Username>.png">
-  </details>
-```
+    ```html
+    <details>
+        <summary>Preview</summary>
+        <img src="EXAMPLES/<Username>.png">
+    </details>
+    ```
 
 5. Commit changes and push. **Note** Commit message format: Added [Profile Name] profile.
 6. Open and submit a PR. :tada:
