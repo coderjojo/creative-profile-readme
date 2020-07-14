@@ -61,6 +61,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Oscar](https://github.com/blue-1ms)
 
 ## P
+- [Peter Han](https://github.com/peterthehan)
 - [Piyush Suthar](https://github.com/piyushsuthar)
 - [Pouya Saadeghi](https://github.com/saadeghi)
 
