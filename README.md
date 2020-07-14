@@ -134,6 +134,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## P
 - [Peter Han](https://github.com/peterthehan)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/peterthehan.png">
+  </details>
 - [Piyush Suthar](https://github.com/piyushsuthar)
   <details>
     <summary>Preview</summary>
