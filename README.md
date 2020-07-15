@@ -133,6 +133,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## P
+- [Pato Montecchiarini](https://github.com/pmontecchiarini)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/pmontecchiarini.png">
+  </details>
 - [Peter Han](https://github.com/peterthehan)
   <details>
     <summary>Preview</summary>
@@ -149,11 +154,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/saadeghi.png">
 
     Don't try to play it here!
-  </details>
-- [Pato Montecchiarini](https://github.com/pmontecchiarini)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/pmontecchiarini.png">
   </details>
 
 ## R
