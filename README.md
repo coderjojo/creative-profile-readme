@@ -18,15 +18,15 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ABSphreak.png">
   </details>
-- [afc163](https://github.com/afc163)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/afc163.png">
-  </details>
 - [Adrian Sudbury](https://github.com/asudbury)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/asudbury.png">
+  </details>
+- [afc163](https://github.com/afc163)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/afc163.png">
   </details>
 - [Anurag Hazra](https://github.com/anuraghazra)
   <details>
@@ -74,16 +74,17 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/iansmathew.png">
   </details>
-- [Ivan](https://github.com/imickovski)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/imickovski.png">
-  </details>
 - [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/Israel-Laguan.png">
   </details>
+- [Ivan](https://github.com/imickovski)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/imickovski.png">
+  </details>
+
 
 ## J
 - [Jacques Blom](https://github.com/jacques-blom)
