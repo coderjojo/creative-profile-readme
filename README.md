@@ -13,20 +13,21 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ---
 
 ## A
+
 - [Abhinav Sharma](https://github.com/ABSphreak)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/ABSphreak.png">
   </details>
-- [afc163](https://github.com/afc163)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/afc163.png">
-  </details>
 - [Adrian Sudbury](https://github.com/asudbury)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/asudbury.png">
+  </details>
+- [afc163](https://github.com/afc163)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/afc163.png">
   </details>
 - [Anurag Hazra](https://github.com/anuraghazra)
   <details>
@@ -40,6 +41,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## B
+
 - [Brian Douglas](https://github.com/bdougie)
   <details>
     <summary>Preview</summary>
@@ -47,6 +49,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## C
+
 - [Claudio Wunder](https://github.com/ovflowd)
   <details>
     <summary>Preview</summary>
@@ -56,6 +59,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## D
 
 ## E
+
 - [Eana Hufwe](https://github.com/blueset)
   <details>
     <summary>Preview</summary>
@@ -69,23 +73,25 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## H
 
 ## I
+
 - [Ian Sebastian Mathew](https://github.com/iansmathew)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/iansmathew.png">
-  </details>
-- [Ivan](https://github.com/imickovski)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/imickovski.png">
   </details>
 - [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/Israel-Laguan.png">
   </details>
+- [Ivan](https://github.com/imickovski)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/imickovski.png">
+  </details>
 
 ## J
+
 - [Jacques Blom](https://github.com/jacques-blom)
   <details>
     <summary>Preview</summary>
@@ -107,7 +113,8 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## L
 
 ## M
-- [Mpho Mphego](https://github.com/mmphego/)
+
+- [Mpho Mphego](https://github.com/mmphego)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mmphego.png">
@@ -121,6 +128,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## N
 
 ## O
+
 - [OOQQ](https://github.com/OOQQ)
   <details>
     <summary>Preview</summary>
@@ -133,6 +141,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## P
+
+- [Pato Montecchiarini](https://github.com/pmontecchiarini)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/pmontecchiarini.png">
+  </details>
 - [Peter Han](https://github.com/peterthehan)
   <details>
     <summary>Preview</summary>
@@ -148,17 +162,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/saadeghi.png">
 
-    Don't try to play it here!
-  </details>
-- [Pato Montecchiarini](https://github.com/pmontecchiarini)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/pmontecchiarini.png">
+  Don't try to play it here!
   </details>
 
 ## R
 
 ## S
+
 - [Shaan Khan](https://github.com/ShaanCoding)
   <details>
     <summary>Preview</summary>
@@ -174,10 +184,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/sindresorhus.png">
 
-    Yes, it's a GIF of a Loading Octocat!
+  Yes, it's a GIF of a Loading Octocat!
   </details>
 
 ## T
+
 - [Thaiane Braga](https://github.com/Thaiane)
   <details>
     <summary>Preview</summary>
@@ -188,10 +199,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/timburgan.png">
 
-    Too large to fit, too fun to not play!
+  Too large to fit, too fun to not play!
   </details>
 
 ## V
+
 - [Vedant Jajoo](https://github.com/coderjojo)
   <details>
     <summary>Preview</summary>
@@ -204,6 +216,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## W
+
 - [Waylon Walker](https://github.com/WaylonWalker)
   <details>
     <summary>Preview</summary>
