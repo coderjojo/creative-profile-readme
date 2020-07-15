@@ -107,7 +107,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## L
 
 ## M
-- [Mpho Mphego](https://github.com/mmphego/)
+- [Mpho Mphego](https://github.com/mmphego)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mmphego.png">
