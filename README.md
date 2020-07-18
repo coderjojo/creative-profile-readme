@@ -60,6 +60,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ChegeBryan.png">
   </details>
+
 ## D
 
 ## E
@@ -118,6 +119,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## K
+
+- [Karthik Nayak](https://github.com/KarthikNayak024)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/KarthikNayak024.png">
+  </details>
 
 ## L
 
@@ -195,6 +202,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
   Yes, it's a GIF of a Loading Octocat!
   </details>
+
 - [Sukru Uzel](https://github.com/suzel)
   <details>
     <summary>Preview</summary>
