@@ -76,7 +76,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## G
 
 ## H
-
+- [Halfrost](https://github.com/halfrost)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/halfrost.png">
+  </details>
 ## I
 
 - [Ian Sebastian Mathew](https://github.com/iansmathew)
