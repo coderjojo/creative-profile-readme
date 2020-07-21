@@ -63,6 +63,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## D
 
+- [dahhd](https://github.com/dahhd)
+    <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/dahhd.png">
+    </details>
+
 ## E
 
 - [Eana Hufwe](https://github.com/blueset)
