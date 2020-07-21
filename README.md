@@ -76,11 +76,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## G
 
 ## H
+
 - [Halfrost](https://github.com/halfrost)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/halfrost.png">
   </details>
+
 ## I
 
 - [Ian Sebastian Mathew](https://github.com/iansmathew)
@@ -186,6 +188,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## R
+
+[Raushan Kumar](https://github.com/raushan606)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/raushan606.png">
+  </details>
 
 ## S
 
