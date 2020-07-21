@@ -205,7 +205,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## R
 
-[Raushan Kumar](https://github.com/raushan606)
+- [Raushan Kumar](https://github.com/raushan606)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/raushan606.png">
