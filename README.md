@@ -68,6 +68,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <summary>Preview</summary>
       <img src="EXAMPLES/dahhd.png">
     </details>
+- [Dineshkarthik](https://github.com/Dineshkarthik)
+    <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/Dineshkarthik.png">
+    </details>
 
 ## E
 
