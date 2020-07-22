@@ -29,6 +29,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/afc163.png">
   </details>
+- [Akas Rai](https://github.com/akasrai)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/akasrai.png">
+  </details>
 - [Anurag Hazra](https://github.com/anuraghazra)
   <details>
     <summary>Preview</summary>
@@ -70,11 +75,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     </details>
 
 - [deep5050](https://github.com/deep5050)
-        <details>
-        <summary>Preview</summary>
-        <img src="EXAMPLES/deep5050.png">
+  <details>
+  <summary>Preview</summary>
+  <img src="EXAMPLES/deep5050.png">
     </details>
-    
+
 - [Dineshkarthik](https://github.com/Dineshkarthik)
     <details>
       <summary>Preview</summary>
@@ -212,8 +217,8 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 - [Pratik Kumar](https://github.com/pr2tik1)
   <details>
-	<summary>Preview</summary>
-	<img src="EXAMPLES/pr2tik1.png">
+  		<summary>Preview</summary>
+  		<img src="EXAMPLES/pr2tik1.png">
   </details>
 
 ## R
