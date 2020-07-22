@@ -210,6 +210,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   Don't try to play it here!
   </details>
 
+- [Pratik Kumar](https://github.com/pr2tik1)
+  <details>
+	<summary>Preview</summary>
+	<img src="EXAMPLES/pr2tik1.png">
+  </details>
+
 ## R
 
 - [Raushan Kumar](https://github.com/raushan606)
