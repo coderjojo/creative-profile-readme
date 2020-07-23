@@ -146,6 +146,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/jayehernandez.png">
   </details>
+- [Jessica Lim](https://github.com/jessicalim8)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/JessicaLim8.png">
+  </details>
 
 ## K
 
