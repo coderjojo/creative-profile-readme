@@ -24,6 +24,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/asudbury.png">
   </details>
+- [Aditya Vikram Singh](https://github.com/AVS1508)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/AVS1508.png">
+  </details>
 - [afc163](https://github.com/afc163)
   <details>
     <summary>Preview</summary>
