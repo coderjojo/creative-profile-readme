@@ -275,11 +275,19 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   Yes, it's a GIF of a Loading Octocat!
   </details>
 
+- [Srihari Kapu](https://github.com/sriharikapu)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/sriharikapu.PNG">
+  </details>
+
+
 - [Sukru Uzel](https://github.com/suzel)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/suzel.png">
   </details>
+
 
 ## T
 
