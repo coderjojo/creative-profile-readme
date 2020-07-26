@@ -61,7 +61,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## B
-
+- [Bayrem Gharsellaoui](https://github.com/kaizoku-oh)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/kaizoku-oh.png">
+  </details>
 - [Brian Douglas](https://github.com/bdougie)
   <details>
     <summary>Preview</summary>
