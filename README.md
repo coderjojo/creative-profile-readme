@@ -202,6 +202,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## N
 
+- [Kunware Nakul Singh Bhati](https://github.com/nakulbhati)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/nakulbhati.png">
+  </details>
+
 ## O
 
 - [OOQQ](https://github.com/OOQQ)
