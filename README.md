@@ -51,7 +51,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/akasrai.png">
   </details>
-  - [Aman Ansari](https://github.com/aman-atg)
+- [Aman Ansari](https://github.com/aman-atg)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/aman-atg.png">
