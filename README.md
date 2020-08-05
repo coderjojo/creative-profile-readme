@@ -276,11 +276,19 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## R
 
+- [Rachitt Shah](https://github.com/godslayer201)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/RachittShah.png">
+  </details>
 - [Raushan Kumar](https://github.com/raushan606)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/raushan606.png">
   </details>
+
+
+
 
 ## S
 
