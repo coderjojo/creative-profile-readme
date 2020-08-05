@@ -279,7 +279,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Rachitt Shah](https://github.com/godslayer201)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/RachittShah.png">
+    <img src="EXAMPLES/RachiitShah.png">
   </details>
 - [Raushan Kumar](https://github.com/raushan606)
   <details>
