@@ -291,14 +291,18 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/RachiitShah.png">
   </details>
+
 - [Raushan Kumar](https://github.com/raushan606)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/raushan606.png">
   </details>
 
-
-
+- [Rafael Freitas](https://github.com/RafaelOFreitas)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/RafaelOFreitas.png">
+  </details>
 
 ## S
 
