@@ -304,6 +304,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/RafaelOFreitas.png">
   </details>
 
+- [Ronan D'Souza](https://github.com/ronan696)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ronan696.png">
+  </details>
+
 ## S
 
 - [Sabbir Mollah](https://github.com/SabbirMollah)
