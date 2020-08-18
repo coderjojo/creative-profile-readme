@@ -321,7 +321,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Sabiul Sabit](https://github.com/SabiulSabit)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/Sabit.png">
+    <img src="EXAMPLES/Sabit01.png">
   </details>
 
 - [Shaan Khan](https://github.com/ShaanCoding)
