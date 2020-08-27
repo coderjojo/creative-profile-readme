@@ -144,7 +144,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## F
 
 ## G
-
+- [Gustavo Soriano](https://github.com/gustavosoriano)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/soriano.png">
+  </details>
+  
 ## H
 
 - [Halfrost](https://github.com/halfrost)
