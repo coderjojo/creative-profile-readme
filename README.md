@@ -219,6 +219,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## L
 
+- [Leandro Simões](https://github.com/leandrosimoes)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/leandrosimoes.png">
+  </details>
+
 ## M
 
 - [Mpho Mphego](https://github.com/mmphego)
