@@ -375,6 +375,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/sriharikapu.PNG">
   </details>
+  
+* [Stanley Lim](https://github.com/Spiderpig86)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Spiderpig86.jpg">
+  </details>
 
 * [Sukru Uzel](https://github.com/suzel)
   <details>
