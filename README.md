@@ -276,6 +276,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/pmontecchiarini.png">
   </details>
+- [Pavel Rahman](https://github.com/pavstar619)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/pavstar619.png">
+  </details>
 - [Peter Han](https://github.com/peterthehan)
   <details>
     <summary>Preview</summary>
