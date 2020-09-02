@@ -439,6 +439,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## W
 
+- [Waren Gonzaga](https://github.com/WarenGonzaga)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/WarenGonzaga.png">
+  </details>
+
 - [Waylon Walker](https://github.com/WaylonWalker)
   <details>
     <summary>Preview</summary>
