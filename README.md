@@ -102,6 +102,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## C
 
+- [Cameron Thompson](https://github.com/cdthomp1)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/cdthomp1.png">
+  </details>
 - [Claudio Wunder](https://github.com/ovflowd)
   <details>
     <summary>Preview</summary>
