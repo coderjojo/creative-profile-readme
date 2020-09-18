@@ -132,6 +132,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <img src="EXAMPLES/deep5050.png">
     </details>
 
+- [DenverCoder1](https://github.com/DenverCoder1)
+  <details>
+  <summary>Preview</summary>
+  <img src="EXAMPLES/DenverCoder1.png">
+    </details>
+
 - [Dineshkarthik](https://github.com/Dineshkarthik)
     <details>
       <summary>Preview</summary>
