@@ -99,6 +99,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/BereketSemagn.png">
   </details>
+- [Bilgehan Gecici](https://github.com/Bgstatic)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Bgstatic.png">
+  </details>
 - [Brian Douglas](https://github.com/bdougie)
   <details>
     <summary>Preview</summary>
