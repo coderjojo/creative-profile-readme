@@ -117,7 +117,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/cdthomp1.png">
   </details>
-  
 - [Chiraag Kakar](https://github.com/chiraag-kakar)
   <details>
     <summary>Preview</summary>
