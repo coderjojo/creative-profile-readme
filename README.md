@@ -255,6 +255,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/leandrosimoes.png">
   </details>
+- [Luca Fluri](https://github.com/lucafluri)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/lucafluri.jpg">
+  </details>
 
 ## M
 
