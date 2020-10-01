@@ -388,6 +388,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ShaanCoding.png">
   </details>
+- [Sudipto Ghosh](https://github.com/pydevsg)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/pydevsg.png">
+  </details>
 - [Simon Willison](https://github.com/simonw)
   <details>
     <summary>Preview</summary>
