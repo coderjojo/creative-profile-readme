@@ -180,7 +180,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/soriano.png">
   </details>
-  
+
 ## H
 
 - [Halfrost](https://github.com/halfrost)
@@ -361,6 +361,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/RachiitShah.png">
   </details>
 
+- [Ram Prakash](https://github.com/thedoodler)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/thedoodler.png">
+  </details>
+
 - [Raushan Kumar](https://github.com/raushan606)
   <details>
     <summary>Preview</summary>
@@ -421,7 +427,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/sriharikapu.PNG">
   </details>
-  
+
 * [Stanley Lim](https://github.com/Spiderpig86)
   <details>
     <summary>Preview</summary>
@@ -513,5 +519,3 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ZamranxD.png">
   </details>
-  
-  
