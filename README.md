@@ -405,22 +405,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/ShaanCoding.png">
   </details>
   
-- [Sneha Kumari](https://github.com/Snehakri022)
-   <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Snehakri022.PNG">
-  </details>
-  
-- [Sudipto Ghosh](https://github.com/pydevsg)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/pydevsg.png">
-  </details>
 - [Simon Willison](https://github.com/simonw)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/simonw.png">
   </details>
+  
 - [Sindre Sorhus](https://github.com/sindresorhus)
   <details>
     <summary>Preview</summary>
@@ -429,31 +419,43 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   Yes, it's a GIF of a Loading Octocat!
   </details>
 
+- [Sneha Kumari](https://github.com/Snehakri022)
+   <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Snehakri022.PNG">
+  </details>
+ 
 - [Srihari Kapu](https://github.com/sriharikapu)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/sriharikapu.PNG">
   </details>
 
-* [Stanley Lim](https://github.com/Spiderpig86)
+- [Stanley Lim](https://github.com/Spiderpig86)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/Spiderpig86.jpg">
   </details>
-
-* [Sukru Uzel](https://github.com/suzel)
+  
+- [Sudipto Ghosh](https://github.com/pydevsg)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/pydevsg.png">
+  </details>
+  
+- [Sukru Uzel](https://github.com/suzel)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/suzel.png">
   </details>
 
-* [Sumanth Talluri](https://github.com/Sumanth-Talluri)
+- [Sumanth Talluri](https://github.com/Sumanth-Talluri)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/Sumanth-Talluri.png">
   </details>
 
-* [System-Glitch](https://github.com/System-Glitch)
+- [System-Glitch](https://github.com/System-Glitch)
   <details>
       <summary>Preview</summary>
       <img src="EXAMPLES/System-Glitch.png">
