@@ -408,7 +408,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Sneha Kumari](https://github.com/Snehakri022)
 <details>
   <summary>Preview</summary>
-  <img src="EXAMPLES/Sneha.png">
+  <img src="EXAMPLES/Sneha.PNG">
   </details>
   
 - [Sudipto Ghosh](https://github.com/pydevsg)
