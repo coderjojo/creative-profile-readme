@@ -164,6 +164,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <img src="EXAMPLES/Dineshkarthik.png">
     </details>
 
+- [Dedar Alam](https://github.com/devded)
+    <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/devded.png">
+    </details>
+
 ## E
 
 - [Eana Hufwe](https://github.com/blueset)
