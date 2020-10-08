@@ -146,6 +146,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <img src="EXAMPLES/dahhd.png">
     </details>
 
+- [Dedar Alam](https://github.com/devded)
+    <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/devded.png">
+    </details>
+    
 - [deep5050](https://github.com/deep5050)
   <details>
   <summary>Preview</summary>
