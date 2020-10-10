@@ -177,6 +177,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/blueset.png">
   </details>
+- [Emerson Thompson](https://github.com/thompsonemerson)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/thompsonemerson.png">
+  </details>
 
 ## F
 
