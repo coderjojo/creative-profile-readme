@@ -158,6 +158,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <img src="EXAMPLES/deep5050.png">
     </details>
 
+- [DeepaPrasanna](https://github.com/DeepaPrasanna)
+  <details>
+  <summary>Preview</summary>
+  <img src="EXAMPLES/DeepaPrasanna.png">
+    </details>
+
 - [DenverCoder1](https://github.com/DenverCoder1)
   <details>
   <summary>Preview</summary>
