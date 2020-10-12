@@ -396,6 +396,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/ronan696.png">
   </details>
 
+- [Rudraksh Kanekar](https://github.com/RudrakshK)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/RudrakshK.png">
+  </details>
+
 ## S
 
 - [Sabbir Mollah](https://github.com/SabbirMollah)
