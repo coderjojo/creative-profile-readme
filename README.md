@@ -285,6 +285,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## M
 
+- [Maya Gershovitz Bar](https://github.com/mgershovitz)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/mgershovitz.png">
+  </details>
 - [Mpho Mphego](https://github.com/mmphego)
   <details>
     <summary>Preview</summary>
@@ -300,6 +305,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/moshfiqrony.png">
   </details>
+
 
 ## N
 
