@@ -66,6 +66,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/akasrai.png">
   </details>
+- [Akash Patel](https://github.com/imakash3011)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/imakash3011.png">
+  </details>
 - [Alfred Dagenais](https://github.com/alfreddagenais)
   <details>
     <summary>Preview</summary>
