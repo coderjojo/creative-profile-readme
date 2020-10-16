@@ -325,6 +325,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/nakulbhati.png">
   </details>
 
+- [Naina Upadhyay](https://github.com/naina25)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/naina25.png">
+  </details>
+
 ## O
 
 - [OOQQ](https://github.com/OOQQ)
