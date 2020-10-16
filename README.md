@@ -180,6 +180,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <img src="EXAMPLES/DenverCoder1.png">
     </details>
 
+- [Devesh Kumar Singh](https://github.com/Devesh-19)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Devesh-19.png">
+  </details>
+
 - [Dineshkarthik](https://github.com/Dineshkarthik)
     <details>
       <summary>Preview</summary>
