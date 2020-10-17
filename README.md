@@ -456,8 +456,8 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/ShaanCoding.png">
   </details>
   
- -[Shawn Pereira](https://github.com/recurshawn)
- <details>
+ - [Shawn Pereira](https://github.com/recurshawn)
+   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/recurshawn.png">
   </details>
