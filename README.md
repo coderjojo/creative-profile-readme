@@ -176,7 +176,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 - [deetoo](https://github.com/deetoo)
   <details>
-  <summary>Preview</summary>
+  <summary>Preview2</summary>
   <img src="EXAMPLES/deetoo.png">
     </details>
 
