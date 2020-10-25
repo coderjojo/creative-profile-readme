@@ -163,7 +163,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <summary>Preview</summary>
       <img src="EXAMPLES/devded.png">
     </details>
-    
+
 - [deep5050](https://github.com/deep5050)
   <details>
   <summary>Preview</summary>
@@ -216,6 +216,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 ## F
 
 ## G
+
 - [Gustavo Soriano](https://github.com/gustavosoriano)
   <details>
     <summary>Preview</summary>
@@ -334,7 +335,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/moshfiqrony.png">
   </details>
-
+- [Murshid Azher](https://github.com/murshidazher)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/murshidazher.png">
+  </details>
 
 ## N
 
@@ -410,7 +415,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/p014ri5.png">
   </details>
 
-
 ## R
 
 - [Rachitt Shah](https://github.com/godslayer201)
@@ -468,25 +472,23 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ShaanCoding.png">
   </details>
-  
- - [Shawn Pereira](https://github.com/recurshawn)
-   <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/recurshawn.png">
-  </details>
+- [Shawn Pereira](https://github.com/recurshawn)
+ <details>
+  <summary>Preview</summary>
+  <img src="EXAMPLES/recurshawn.png">
+</details>
 
- - [Shiryel](https://github.com/shiryel)
-   <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/shiryel.png">
-  </details>
-  
+- [Shiryel](https://github.com/shiryel)
+ <details>
+  <summary>Preview</summary>
+  <img src="EXAMPLES/shiryel.png">
+</details>
+
 - [Simon Willison](https://github.com/simonw)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/simonw.png">
   </details>
-  
 - [Sindre Sorhus](https://github.com/sindresorhus)
   <details>
     <summary>Preview</summary>
@@ -500,7 +502,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Snehakri022.PNG">
   </details>
- 
+
 - [Srihari Kapu](https://github.com/sriharikapu)
   <details>
     <summary>Preview</summary>
@@ -512,13 +514,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Spiderpig86.jpg">
   </details>
-  
 - [Sudipto Ghosh](https://github.com/pydevsg)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/pydevsg.png">
   </details>
-  
 - [Sukru Uzel](https://github.com/suzel)
   <details>
     <summary>Preview</summary>
