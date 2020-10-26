@@ -438,10 +438,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
   
 - [Regus Albert](https://github.com/RegusAl)
-<details>
+  <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/RegusAl.png">
-</details>
+    <img src="EXAMPLES/RegusAl.PNG">
+  </details>
 
 - [Ronan D'Souza](https://github.com/ronan696)
   <details>
