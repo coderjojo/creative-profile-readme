@@ -473,16 +473,16 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/ShaanCoding.png">
   </details>
 - [Shawn Pereira](https://github.com/recurshawn)
- <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/recurshawn.png">
-</details>
-
+  <details>
+   <summary>Preview</summary>
+   <img src="EXAMPLES/recurshawn.png">
+  </details>
+  
 - [Shiryel](https://github.com/shiryel)
- <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/shiryel.png">
-</details>
+  <details>
+   <summary>Preview</summary>
+   <img src="EXAMPLES/shiryel.png">
+  </details>
 
 - [Simon Willison](https://github.com/simonw)
   <details>
@@ -552,13 +552,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   Too large to fit, too fun to not play!
   </details>
   
-##U
+## U
 - [Uannabi](https://github.com/uannabi)
-
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/unnabi.png">
-
   Too large to fit, too fun to not play!
   </details>
 
