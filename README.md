@@ -556,7 +556,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Uannabi](https://github.com/uannabi)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/unnabi.png">
+    <img src="EXAMPLES/uannabi.png">
   Too large to fit, too fun to not play!
   </details>
 
