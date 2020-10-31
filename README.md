@@ -12,7 +12,7 @@ This repository was inspired from [Developer Portfolios](https://github.com/emma
 
 Make your Profile look good & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
+**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
 ---
 
@@ -478,16 +478,16 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/ShaanCoding.png">
   </details>
 - [Shawn Pereira](https://github.com/recurshawn)
- <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/recurshawn.png">
-</details>
-
+  <details>
+   <summary>Preview</summary>
+   <img src="EXAMPLES/recurshawn.png">
+  </details>
+  
 - [Shiryel](https://github.com/shiryel)
- <details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/shiryel.png">
-</details>
+  <details>
+   <summary>Preview</summary>
+   <img src="EXAMPLES/shiryel.png">
+  </details>
 
 - [Simon Willison](https://github.com/simonw)
   <details>
@@ -554,6 +554,14 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/timburgan.png">
 
+  Too large to fit, too fun to not play!
+  </details>
+  
+## U
+- [Uannabi](https://github.com/uannabi)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/uannabi.png">
   Too large to fit, too fun to not play!
   </details>
 
