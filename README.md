@@ -395,6 +395,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/piyushsuthar.png">
   </details>
+- [Platane](https://github.com/platane)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/platane.png">
+  </details>
 - [Pouya Saadeghi](https://github.com/saadeghi)
   <details>
     <summary>Preview</summary>
