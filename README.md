@@ -359,6 +359,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/naina25.png">
   </details>
+  
+- [Nikunj Sharma](https://github.com/nouveau-riche)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/nouveau-riche.png">
+  </details>
 
 ## O
 
