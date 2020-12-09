@@ -338,6 +338,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## M
 
+- [Manoj Boddu](https://github.com/manumanoj0010)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/manumanoj0010.png">
+  </details>
 - [Matteas Eden](https://github.com/Matteas-Eden)
   <details>
     <summary>Preview</summary>
