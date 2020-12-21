@@ -320,6 +320,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/JoykishanSharma.png">
   </details>
+- [JayB Kim](https://github.com/kogisin)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/JayB.png">
+  </details>
 
 ## K
 
