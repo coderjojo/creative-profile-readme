@@ -522,11 +522,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/SabbirMollah.png">
   </details>
-
-- [Sabiul Sabit](https://github.com/SabiulSabit)
+  
+- [Sabiul Sabit](https://github.com/mostlypanda)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/Sabit01.png">
+    <img src="EXAMPLES/mostlypanda.png">
   </details>
 
 - [Shaan Khan](https://github.com/ShaanCoding)
