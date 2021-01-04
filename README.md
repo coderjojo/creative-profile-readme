@@ -354,31 +354,43 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/manumanoj0010.png">
   </details>
+  
 - [Matteas Eden](https://github.com/Matteas-Eden)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/matteas-eden.png">
   </details>
+  
 - [Maya Gershovitz Bar](https://github.com/mgershovitz)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mgershovitz.png">
   </details>
+  
 - [Mpho Mphego](https://github.com/mmphego)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mmphego.png">
   </details>
+  
 - [Monica Powell](https://github.com/M0nica)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/M0nica.png">
   </details>
+  
 - [Moshfiqur Rahman Rony](https://github.com/moshfiqrony)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/moshfiqrony.png">
   </details>
+
+- [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/msameerfarooq.jpg">
+  </details>
+  
 - [Murshid Azher](https://github.com/murshidazher)
   <details>
     <summary>Preview</summary>
