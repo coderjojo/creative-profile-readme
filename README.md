@@ -102,6 +102,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/AnhThiDINH.png">
   </details>
 
+- [Anirudh Belwadi](https://github.com/anirudhbelwadi)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/anirudhbelwadi.png">
+  </details>
+
 - [Anurag Hazra](https://github.com/anuraghazra)
   
   <details>
