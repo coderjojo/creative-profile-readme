@@ -198,6 +198,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <img src="EXAMPLES/dahhd.png">
     </details>
 
+- [Daniel Caballero](https://github.com/danielcaballero796)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/danielcaballero.png">
+  </details>
+
 - [Dedar Alam](https://github.com/devded)
     <details>
       <summary>Preview</summary>
