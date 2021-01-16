@@ -23,85 +23,71 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ABSphreak.png">
   </details>
-  
 - [Abhishek Sisodiya](https://github.com/sisodiya2421)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/sisodiya2421.png">
   </details>
-  
 - [acervenky](https://github.com/acervenky)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/acervenky.png">
   </details>
-  
 - [Adam Alston](https://github.com/adamalston)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/AdamAlston.png">
   </details>
-  
 - [Adnan Azmee](https://github.com/adnanazmee)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/adnanazmee.jpg">
   </details>
-  
 - [Adrian Sudbury](https://github.com/asudbury)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/asudbury.png">
   </details>
-  
 - [Aditya Vikram Singh](https://github.com/AVS1508)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/AVS1508.png">
   </details>
-  
 - [afc163](https://github.com/afc163)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/afc163.png">
   </details>
-  
 - [Ahsan Khan](https://github.com/ahsankhan26)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/ahsankhan26.PNG">
   </details>
-  
 - [Akas Rai](https://github.com/akasrai)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/akasrai.png">
   </details>
-  
 - [Akash Patel](https://github.com/imakash3011)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/imakash3011.png">
   </details>
-  
 - [Alessandra Bilardi](https://github.com/bilardi)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/bilardi.png">
   </details>
-  
 - [Alfred Dagenais](https://github.com/alfreddagenais)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/alfreddagenais.png">
   </details>
-  
 - [Aman Ansari](https://github.com/aman-atg)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/aman-atg.png">
   </details>
-  
 - [Anh-Thi DINH](https://github.com/dinhanhthi)
   <details>
     <summary>Preview</summary>
@@ -115,30 +101,27 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 - [Anurag Hazra](https://github.com/anuraghazra)
-  
+
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/anuraghazra.png">
   </details>
-  
+
 - [Anushka Verma](https://github.com/verma-anushka)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/verma-anushka.png">
   </details>
-  
 - [Ari](https://github.com/ari-hacks)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/ari-hacks.png">
   </details>
-  
 - [Arturs Smirnovs](https://github.com/arturssmirnovs)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/arturssmirnovs.png">
   </details>
-  
 - [Avinal Kumar](https://github.com/avinal)
   <details>
     <summary>Preview</summary>
@@ -251,6 +234,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <summary>Preview</summary>
       <img src="EXAMPLES/Dineshkarthik.png">
     </details>
+
+- [Dustin Kelly](https://github.com/dustin100)
+   <details>
+     <summary>Preview</summary>
+     <img src="EXAMPLES/dustin100.png">
+  </details>
 
 ## E
 
@@ -372,31 +361,26 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/manumanoj0010.png">
   </details>
-  
 - [Matteas Eden](https://github.com/Matteas-Eden)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/matteas-eden.png">
   </details>
-  
 - [Maya Gershovitz Bar](https://github.com/mgershovitz)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mgershovitz.png">
   </details>
-  
 - [Mpho Mphego](https://github.com/mmphego)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/mmphego.png">
   </details>
-  
 - [Monica Powell](https://github.com/M0nica)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/M0nica.png">
   </details>
-  
 - [Moshfiqur Rahman Rony](https://github.com/moshfiqrony)
   <details>
     <summary>Preview</summary>
@@ -408,7 +392,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/msameerfarooq.jpg">
   </details>
-  
 - [Murshid Azher](https://github.com/murshidazher)
   <details>
     <summary>Preview</summary>
@@ -428,7 +411,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/naina25.png">
   </details>
-  
 - [Nikunj Sharma](https://github.com/nouveau-riche)
   <details>
     <summary>Preview</summary>
@@ -502,7 +484,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## R
 
-
 - [Racheli ver](https://github.com/racheliver)
   <details>
     <summary>Preview</summary>
@@ -552,7 +533,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/SabbirMollah.png">
   </details>
-  
 - [Sarthak Mittal](https://github.com/mostlypanda)
   <details>
     <summary>Preview</summary>
@@ -563,7 +543,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/sauravchamoli.png">
-  </details>  
+  </details>
 
 - [Shaan Khan](https://github.com/ShaanCoding)
   <details>
@@ -655,8 +635,9 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
   Too large to fit, too fun to not play!
   </details>
-  
+
 ## U
+
 - [Uannabi](https://github.com/uannabi)
   <details>
     <summary>Preview</summary>
