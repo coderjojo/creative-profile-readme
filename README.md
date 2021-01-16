@@ -84,6 +84,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/imakash3011.png">
   </details>
   
+- [Alessandra Bilardi](https://github.com/bilardi)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/bilardi.png">
+  </details>
+  
 - [Alfred Dagenais](https://github.com/alfreddagenais)
   <details>
     <summary>Preview</summary>
