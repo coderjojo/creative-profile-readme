@@ -33,10 +33,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/acervenky.png">
   </details>
-- [Adam Alston](https://github.com/adamalston)
+- [asad khan](https://github.com/asadkhanek)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/AdamAlston.png">
+    <img src="EXAMPLES/asadkhanek.png">
   </details>
 - [Adnan Azmee](https://github.com/adnanazmee)
   <details>
