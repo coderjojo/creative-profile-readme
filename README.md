@@ -683,7 +683,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## Y
-
+- [yashsehgal](https://github.com/yashsehgal)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/yashsehgal.png">
+  </details>
 ## Z
 
 - [zmcx16](https://github.com/zmcx16)
