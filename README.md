@@ -562,6 +562,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
    <img src="EXAMPLES/ShreeVatsaN.jpg">
   </details>
 
+- [Siddharth Chandra](https://github.com/siddharth2016)
+  <details>
+   <summary>Preview</summary>
+   <img src="EXAMPLES/siddharth2016.png">
+  </details>
+
 - [Shiryel](https://github.com/shiryel)
   <details>
    <summary>Preview</summary>
