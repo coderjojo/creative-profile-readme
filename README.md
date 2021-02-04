@@ -255,6 +255,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## F
+- [fadyehabamer](https://github.com/fadyehabamer)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/fadyamer.png">
+  </details>
 
 ## G
 
