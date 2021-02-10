@@ -391,7 +391,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/moshfiqrony.png">
   </details>
-
+- [Mridul Panda](https://github.com/Mridul2820)
+  <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/Mridul2820.png">
+  </details>
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
   <details>
     <summary>Preview</summary>
