@@ -438,6 +438,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## O
 
+- [Oktay Kır](https://github.com/OKTAYKIR)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/oktaykir.png">
+  </details>
 - [OOQQ](https://github.com/OOQQ)
   <details>
     <summary>Preview</summary>
