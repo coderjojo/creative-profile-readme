@@ -163,6 +163,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/cdthomp1.png">
   </details>
+- [Carlos Ubaldo](https://github.com/accomigt)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/accomigt.png">
+  </details>
 - [Chiraag Kakar](https://github.com/chiraag-kakar)
   <details>
     <summary>Preview</summary>
@@ -265,6 +270,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## F
+
 - [fadyehabamer](https://github.com/fadyehabamer)
   <details>
     <summary>Preview</summary>
@@ -718,11 +724,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## Y
+
 - [yashsehgal](https://github.com/yashsehgal)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/yashsehgal.png">
   </details>
+
 ## Z
 
 - [zmcx16](https://github.com/zmcx16)
