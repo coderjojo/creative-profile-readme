@@ -449,7 +449,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Nikita Jain ](https://github.com/nikita1610)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/nikita1610.png">
+    <img src="EXAMPLES/nikita1610.PNG">
   </details>
 
 ## O
