@@ -633,6 +633,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/Snehakri022.PNG">
   </details>
 
+- [Somnath Paul](https://github.com/SP-XD)
+   <details>
+     <summary>Preview</summary>
+     <img src="EXAMPLES/SP-XD.png">
+   </details>
+
 - [Srihari Kapu](https://github.com/sriharikapu)
   <details>
     <summary>Preview</summary>
