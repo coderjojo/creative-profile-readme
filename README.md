@@ -202,6 +202,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/danielcaballero.png">
   </details>
+  
+- [Daniel Moya](https://github.com/dmoyadev)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/dmoyadev.png">
+  </details>
 
 - [Dedar Alam](https://github.com/devded)
     <details>
