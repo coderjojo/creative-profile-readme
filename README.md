@@ -202,7 +202,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/danielcaballero.png">
   </details>
-  
+
 - [Daniel Moya](https://github.com/dmoyadev)
   <details>
     <summary>Preview</summary>
@@ -492,6 +492,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/peterthehan.png">
+  </details>
+- [Phanison](https://github.com/phanison898)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Phanison898.png">
   </details>
 - [Piyush Suthar](https://github.com/piyushsuthar)
   <details>
