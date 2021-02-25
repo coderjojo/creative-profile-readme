@@ -93,6 +93,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/aman-atg.png">
   </details>
+- [Aman Kumar Dewangan](https://github.com/amandewatnitrr)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Amandewatnitrr.png">
+  </details>
 - [Anh-Thi DINH](https://github.com/dinhanhthi)
   <details>
     <summary>Preview</summary>
