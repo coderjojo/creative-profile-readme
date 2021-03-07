@@ -392,7 +392,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## M
-
+- [Mikhail Chigrin](https://github.com/frozrt)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/frozrt.png">
+  </details>
 - [Mahendra](https://github.com/hendrasob)
   <details>
     <summary>Preview</summary>
