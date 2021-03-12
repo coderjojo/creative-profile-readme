@@ -292,7 +292,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Gabriel Xavier](https://github.com/gabrielmxavier)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/gabriel-xavier.png">
+    <img src="EXAMPLES/gabrielxavier.png">
   </details>
 
 - [Gustavo Soriano](https://github.com/gustavosoriano)
