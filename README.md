@@ -580,6 +580,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/RafaelOFreitas.png">
   </details>
 
+- [Rohit Kumar Saini](https://github.com/rockingrohit9639)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/rohitsaini.png">
+  </details>  
+
 - [Ronan D'Souza](https://github.com/ronan696)
   <details>
     <summary>Preview</summary>
