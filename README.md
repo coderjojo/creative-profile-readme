@@ -103,6 +103,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Amandewatnitrr.png">
   </details>
+
+- [Ana Caroline Sanchez Silva](https://github.com/anacaroliness9)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/anacaroliness9.png">
+  </details>
+
 - [Anh-Thi DINH](https://github.com/dinhanhthi)
   <details>
     <summary>Preview</summary>
