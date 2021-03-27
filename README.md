@@ -553,7 +553,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
   Don't try to play it here!
   </details>
-
+- [Praneeth Reddy](https://github.com/Praneeth-rdy)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/praneeth-rdy.png">
+  </details>
 - [Pranjal Gupta](https://github.com/pranjal36)
   <details>
   		<summary>Preview</summary>
