@@ -398,6 +398,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## L
 
+- [LachlanDev](https://github.com/LachlanDev)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/lachlan-dev.jpg">
+  </details>
 - [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
   <details>
     <summary>Preview</summary>
