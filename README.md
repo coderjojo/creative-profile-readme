@@ -149,6 +149,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/arturssmirnovs.png">
   </details>
+- [Arunsridher Ambati](https://github.com/arunsridher)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Arunsridher.png">
+  </details>
 - [Avinal Kumar](https://github.com/avinal)
   <details>
     <summary>Preview</summary>
@@ -558,6 +563,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
   Don't try to play it here!
   </details>
+
 - [Praneeth Reddy](https://github.com/Praneeth-rdy)
   <details>
     <summary>Preview</summary>
@@ -616,7 +622,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/rohitsaini.png">
-  </details>  
+  </details>
 
 - [Ronan D'Souza](https://github.com/ronan696)
   <details>
