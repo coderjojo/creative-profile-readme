@@ -18,6 +18,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## A
 
+- [Ananya Chatterjee](https://github.com/Ananya-0306)
+  <details>
+    <summary>Preview</summary>
+    <img src="https://github.com/Ananya-0306/creative-profile-readme/blob/master/screencapture-github-Ananya-0306-2021-04-10-12_28_34.png">
+  </details>
 - [Aakarsh B](https://github.com/Aakarsh-B)
   <details>
     <summary>Preview</summary>
