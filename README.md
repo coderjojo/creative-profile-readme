@@ -621,7 +621,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Ray Arayilakath](https://github.com/RayhanADev)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/RayhanADev.jpg">
+    <img src="EXAMPLES/RayhanADev.png">
   </details>
 
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
