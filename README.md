@@ -88,6 +88,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/imakash3011.png">
   </details>
+- [Amado Abaca](https://github.com/amadoabaca)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/amado.png">
+  </details>
 - [Alessandra Bilardi](https://github.com/bilardi)
   <details>
     <summary>Preview</summary>
