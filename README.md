@@ -640,6 +640,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ronan696.png">
   </details>
+  
+- [Rudik Rompich](https://github.com/rudikschess)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/rudikschess.png">
+  </details>
 
 - [Rudraksh Kanekar](https://github.com/RudrakshK)
   <details>
