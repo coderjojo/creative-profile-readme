@@ -88,7 +88,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/imakash3011.png">
   </details>
-  - [Amado Abaca](https://github.com/amadoabaca)
+- [Amado Abaca](https://github.com/amadoabaca)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/amado.png">
