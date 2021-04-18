@@ -380,7 +380,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Javagar M](https://github.com/javagarm)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/javagarm.png">
+    <img src="https://github.com/javagarm/creative-profile-readme/blob/master/EXAMPLES/javagar.PNG">
   </details>
 - [Jaye Hernandez](https://github.com/jayehernandez)
   <details>
