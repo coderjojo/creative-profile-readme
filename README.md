@@ -459,7 +459,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Mohamed Yaseen Sheriff S](https://github.com/Yaseen549)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/YaseenGitHubProfile.jpg">
+    <img src="EXAMPLES/Yaseen549.jpg">
   </details>  
 - [Mpho Mphego](https://github.com/mmphego)
   <details>
