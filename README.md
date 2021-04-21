@@ -762,6 +762,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## T
 
+- [Thales Brederodes](https://github.com/ThalesBMC)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Thales.png">
+  </details>
 - [Thaiane Braga](https://github.com/Thaiane)
   <details>
     <summary>Preview</summary>
