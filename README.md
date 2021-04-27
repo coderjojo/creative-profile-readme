@@ -112,7 +112,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/amananku26.png">
-  </details>  
+  </details>
 - [Aman Kumar Dewangan](https://github.com/amandewatnitrr)
   <details>
     <summary>Preview</summary>
@@ -518,6 +518,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## O
 
+- [Ojaswi Awasthi](https://github.com/Ojaswi2000)
+  <details>
+    <summary>Preview</summary>
+  </details>
 - [Oktay Kır](https://github.com/OKTAYKIR)
   <details>
     <summary>Preview</summary>
@@ -627,7 +631,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/RafaelOFreitas.png">
   </details>
-  
 - [Ray Arayilakath](https://github.com/RayhanADev)
   <details>
     <summary>Preview</summary>
@@ -645,7 +648,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ronan696.png">
   </details>
-  
 - [Rudik Rompich](https://github.com/rudikschess)
   <details>
     <summary>Preview</summary>
