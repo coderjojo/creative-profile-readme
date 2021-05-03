@@ -23,6 +23,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Aakarsh.png">
   </details>
+- [Aakash Sinha](https://github.com/isupersky)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/AakashSinha.png">
+  </details>
 - [Abhinandan Trilokia](https://github.com/Trilokia)
   <details>
     <summary>Preview</summary>
