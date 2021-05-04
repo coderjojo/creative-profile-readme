@@ -833,16 +833,16 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/WarenGonzaga.png">
   </details>
 
-- [Willnaoosmith](https://github.com/willnaoosmith)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/Willnaoosmith.png">
-  </details>
-
 - [Waylon Walker](https://github.com/WaylonWalker)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/WaylonWalker.png">
+  </details>
+
+- [Willnaoosmith](https://github.com/willnaoosmith)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Willnaoosmith.png">
   </details>
 
 ## Y
