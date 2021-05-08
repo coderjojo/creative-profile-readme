@@ -504,11 +504,15 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/nakulbhati.png">
   </details>
-
 - [Naina Upadhyay](https://github.com/naina25)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/naina25.png">
+  </details>
+- [Nelson Alba Jr. 許鑫偉 (nelly)](https://github.com/nellyXinwei)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/nellyXinwei.png">
   </details>
 - [Nikunj Sharma](https://github.com/nouveau-riche)
   <details>
