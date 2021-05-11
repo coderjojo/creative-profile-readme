@@ -446,6 +446,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/hendrasob.png">
   </details>
+- [Manigandan Dharmalingam](https://github.com/manigandand)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/manigandand.png">
+  </details>
 - [Manoj Boddu](https://github.com/manumanoj0010)
   <details>
     <summary>Preview</summary>
