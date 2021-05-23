@@ -182,6 +182,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/kaizoku-oh.png">
   </details>
+- [Bardiesel](https://github.com/bardiesel)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Bardiesel.png">
+  </details>
 - [Bereket Semagn](https://github.com/bereketsemagn)
   <details>
     <summary>Preview</summary>
