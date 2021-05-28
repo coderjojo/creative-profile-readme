@@ -187,6 +187,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Bardiesel.png">
   </details>
+- [Benjamin Sampica](https://github.com/benjaminsampica)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/benjaminsampica.png">
+  </details>
 - [Bereket Semagn](https://github.com/bereketsemagn)
   <details>
     <summary>Preview</summary>
