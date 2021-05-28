@@ -174,6 +174,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/avinal.png">
   </details>
+- [Ayush Parikh](https://github.com/Ayushparikh-code)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/githubprofile.png">
+  </details>
 
 ## B
 
