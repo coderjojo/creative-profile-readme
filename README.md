@@ -765,7 +765,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/Spiderpig86.jpg">
   </details>
 - [Sudip Mondal](https://github.com/sudip-mondal-2002)
-- <details>
+  <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/sudip-mondal-2002.jpg">
   </details>
