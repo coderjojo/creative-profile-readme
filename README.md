@@ -141,6 +141,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/anirudhbelwadi.png">
   </details>
+- [AnOrdinaryUsername](https://github.com/AnOrdinaryUsername)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/anordinaryusername.png">
+  </details>
 
 - [Anurag Hazra](https://github.com/anuraghazra)
 
