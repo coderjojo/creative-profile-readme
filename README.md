@@ -570,6 +570,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/pmontecchiarini.png">
   </details>
+- [Patrick Guo](https://github.com/shpatrickguo)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/patrickguo.png">
+  </details>
 - [Pavel Rahman](https://github.com/pavstar619)
   <details>
     <summary>Preview</summary>
