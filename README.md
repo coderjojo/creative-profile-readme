@@ -296,6 +296,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Devesh-19.png">
   </details>
+  
+ - [Dhruv Mehta](https://github.com/Dhruv-194)
+   <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/DhruvMehta.png">
+   </details>
 
 - [Dineshkarthik](https://github.com/Dineshkarthik)
     <details>
