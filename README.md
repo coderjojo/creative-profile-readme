@@ -260,6 +260,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/dmoyadev.png">
   </details>
+  
+- [Darshan R](https://github.com/darshanr27)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/darshanr27.png">
+  </details>
 
 - [Dedar Alam](https://github.com/devded)
     <details>
