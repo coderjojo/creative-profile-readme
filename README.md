@@ -381,6 +381,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/iansmathew.png">
   </details>
+- [Ibrahim Olayinka](https://github.com/IbrahimOlayinka)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/IbrahimOlayinka.png">
+  </details>
 - [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
   <details>
     <summary>Preview</summary>
