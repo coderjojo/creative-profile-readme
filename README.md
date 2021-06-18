@@ -766,6 +766,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
    <img src="EXAMPLES/shiryel.png">
   </details>
 
+  - [Shivashish](https://github.com/shivashishy)
+  <details>
+   <summary>Preview</summary>
+   <img src="EXAMPLES/shivashish.png">
+  </details>
+
 - [Simon Willison](https://github.com/simonw)
   <details>
     <summary>Preview</summary>
