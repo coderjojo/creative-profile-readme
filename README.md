@@ -725,6 +725,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/SabbirMollah.png">
   </details>
+  
 - [Sarthak Mittal](https://github.com/mostlypanda)
   <details>
     <summary>Preview</summary>
@@ -766,7 +767,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
    <img src="EXAMPLES/shiryel.png">
   </details>
 
-  - [Shivashish](https://github.com/shivashishy)
+- [Shivashish](https://github.com/shivashishy)
   <details>
    <summary>Preview</summary>
    <img src="EXAMPLES/shivashish.png">
