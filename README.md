@@ -710,7 +710,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Rounak Neogy](https://github.com/RounakNeogy)
   <details>
     <summary>Preview</summary>
-    <img src="">
+    <img src="EXAMPLES/RounakNeogy.png">
   </details>
 - [Rudik Rompich](https://github.com/rudikschess)
   <details>
