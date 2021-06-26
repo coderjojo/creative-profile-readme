@@ -706,6 +706,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ronan696.png">
   </details>
+  
+- [Rounak Neogy](https://github.com/RounakNeogy)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/RounakNeogy.png">
+  </details>
 - [Rudik Rompich](https://github.com/rudikschess)
   <details>
     <summary>Preview</summary>
