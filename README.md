@@ -694,6 +694,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/RayhanADev.png">
   </details>
+  
+- [Rishika Ghosh](https://github.com/RishikaGhosh)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/RishikaGhosh.jpg">
+  </details>
 
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
   <details>
