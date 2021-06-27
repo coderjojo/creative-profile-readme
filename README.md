@@ -397,6 +397,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Israel-Laguan.png">
   </details>
+- [Ishika Kesarwani](https://github.com/ishikkkkaaaa)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ishikkkkaaaa.png">
+  </details>
 - [Ivan](https://github.com/imickovski)
   <details>
     <summary>Preview</summary>
