@@ -576,6 +576,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/nikita1610.PNG">
   </details>
+- [Nitish Bhatt](https://github.com/initishbhatt)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/initishbhatt.png">
+  </details>
 
 ## O
 
