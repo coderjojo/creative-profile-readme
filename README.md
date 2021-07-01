@@ -818,7 +818,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/Snehakri022.PNG">
   </details>
 
--[Soha Hussain](https://github.com/SohaHussain)
+- [Soha Hussain](https://github.com/SohaHussain)
    <details>
      <summary>Preview</summary>
      <img src="EXAMPLES/SohaHussain.PNG">
