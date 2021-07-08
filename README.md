@@ -440,6 +440,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/JessicaLim8.png">
   </details>
+- [Jishan Shaikh](https://github.com/jishanshaikh4)
+   <details>
+     <summary>Preview</summary>
+     <img src="EXAMPLES/jishanshaikh4.png">
+   </details>
 - [Joykishan Sharma](https://github.com/JoykishanSharma)
   <details>
     <summary>Preview</summary>
