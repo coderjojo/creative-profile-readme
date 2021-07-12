@@ -967,6 +967,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## Y
 
+- [Yashita Namdeo](https://github.com/yashitanamdeo)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/yashitanamdeo.png">
+  </details>
+
 - [yashsehgal](https://github.com/yashsehgal)
   <details>
     <summary>Preview</summary>
