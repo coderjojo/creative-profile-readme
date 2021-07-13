@@ -768,7 +768,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 -   [Sarad Singh](https://github.com/theArkein)
     <details>
       <summary>Preview</summary>
-      <img src="EXAMPLES/theArkein">
+      <img src="EXAMPLES/theArkein.png">
     </details>
 
 -   [Sarthak Mittal](https://github.com/mostlypanda)
@@ -842,7 +842,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
        <summary>Preview</summary>
        <img src="EXAMPLES/SohaHussain.png">
      </details>
-
 
 -   [Somnath Paul](https://github.com/SP-XD)
      <details>
