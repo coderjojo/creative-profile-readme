@@ -482,6 +482,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## K
 
+- [Karina Chichifoi](https://github.com/TryKatChup)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/trykatchup.png">
+  </details>
+
 - [Karras](https://github.com/karras)
   <details>
     <summary>Preview</summary>
