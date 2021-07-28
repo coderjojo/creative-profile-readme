@@ -792,6 +792,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/SabbirMollah.png">
   </details>
   
+- [Sagar Sharma](https://github.com/Sagar-Sharma-7)
+  <details>
+    <summary>Preview</summary>
+    <img src="https://user-images.githubusercontent.com/78422995/127335711-590c57fb-ede2-4dda-8a0f-6a310e131221.png">
+  </details>
+  
 - [Sarthak Mittal](https://github.com/mostlypanda)
   <details>
     <summary>Preview</summary>
