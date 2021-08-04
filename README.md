@@ -612,6 +612,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/naina25.png">
   </details>
+- [Nathan Araújo](https://github.com/ntaraujo)
+  <details>
+    <summary>Preview</summary>
+    <img src="https://user-images.githubusercontent.com/66187211/127872882-89388699-4603-4ae6-a2ab-4b446afb1874.png">
+  </details>
 - [Nelson Alba Jr. 許鑫偉 (nelly)](https://github.com/nellyXinwei)
   <details>
     <summary>Preview</summary>
