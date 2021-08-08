@@ -493,6 +493,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/KarthikNayak024.png">
   </details>
+  
+- [Knightbearr](https://github.com/knightbearr)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/knightbearr.png">
+  </details>
 
 ## L
 
