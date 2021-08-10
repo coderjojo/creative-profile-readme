@@ -148,7 +148,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 - [Anurag Hazra](https://github.com/anuraghazra)
-
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/anuraghazra.png">
@@ -492,6 +491,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/KarthikNayak024.png">
+  </details>
+  
+- [KasRoudra](https://github.com/KasRoudra)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/KasRoudra.jpeg">
   </details>
   
 - [Knightbearr](https://github.com/knightbearr)
