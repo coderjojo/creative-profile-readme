@@ -419,6 +419,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ishikkkkaaaa.png">
   </details>
+- [Ish Kapoor](https://github.com/ishkapoor2000)
+  <details>
+    <summary>Preview</summary>
+    <img height="640px" width="auto" src="EXAMPLES/ishkapoor2000.png">
+  </details>
 - [Ivan](https://github.com/imickovski)
   <details>
     <summary>Preview</summary>
