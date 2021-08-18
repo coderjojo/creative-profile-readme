@@ -497,13 +497,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/KarthikNayak024.png">
   </details>
-  
+
 - [KasRoudra](https://github.com/KasRoudra)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/KasRoudra.jpeg">
   </details>
-  
+
 - [Knightbearr](https://github.com/knightbearr)
   <details>
     <summary>Preview</summary>
@@ -604,6 +604,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/msameerfarooq.jpg">
+  </details>
+- [Mukul Sharma](https://github.com/mukul98s)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/mukul98s.png">
   </details>
 - [Murshid Azher](https://github.com/murshidazher)
   <details>
@@ -752,7 +757,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/RachiitShah.png">
   </details>
-  
+
 - [Radha](https://github.com/RK1905101)
   <details>
     <summary>Preview</summary>
@@ -898,7 +903,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
      <summary>Preview</summary>
      <img src="EXAMPLES/SohaHussain.png">
    </details>
-   
 
 - [Somnath Paul](https://github.com/SP-XD)
    <details>
