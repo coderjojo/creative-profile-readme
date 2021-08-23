@@ -333,6 +333,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <img src="EXAMPLES/Dineshkarthik.png">
     </details>
 
+- [Douglas Ferreira](https://github.com/DouglasDRF)
+    <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/DouglasDRF.png">
+    </details>
+
 - [Dustin Kelly](https://github.com/dustin100)
    <details>
      <summary>Preview</summary>
