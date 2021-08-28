@@ -649,6 +649,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/naina25.png">
   </details>
+- [Naman Parashar](https://github.com/nparashar150)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/nparashar150.png">
+  </details>
 - [Nathan Araújo](https://github.com/ntaraujo)
   <details>
     <summary>Preview</summary>
