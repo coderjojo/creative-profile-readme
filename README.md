@@ -538,6 +538,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/lachlan-dev.jpg">
   </details>
+- [Loftwah](https://github.com/loftwah)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/loftwah.png">
+  </details>  
 - [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
   <details>
     <summary>Preview</summary>
