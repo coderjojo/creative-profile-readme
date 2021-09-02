@@ -525,6 +525,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/knightbearr.png">
   </details>
+  
+- [Kiran Babu Muddam](https://github.com/kiranmuddam)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/kiranmuddam.png">
+  </details>
 
 ## L
 
