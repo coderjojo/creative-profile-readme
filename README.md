@@ -473,6 +473,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/jayehernandez.png">
   </details>
+- [Jean Jacques Barros](https://github.com/jjeanjacques10)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/jjeanjacques10.png">
+  </details>
 - [Jessica Lim](https://github.com/jessicalim8)
   <details>
     <summary>Preview</summary>
