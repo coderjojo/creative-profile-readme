@@ -1020,6 +1020,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
   Too large to fit, too fun to not play!
   </details>
+  
+- [Tim James](https://github.com/Tim-W-James)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/timjames.png">
+  </details>
 
 ## U
 
