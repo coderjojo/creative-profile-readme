@@ -210,7 +210,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/braydonwang.png">
-  </details>  
+  </details>
 - [Brian Douglas](https://github.com/bdougie)
   <details>
     <summary>Preview</summary>
@@ -408,10 +408,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/heguke.png">
   </details>
 - [Hanshul Chandel](https://github.com/hanshulll)
-  <details>
-   <summary>Preview</summary>
-   <img src="EXAMPLES/hanshul.jpg">
- </details>
+ <details>
+  <summary>Preview</summary>
+  <img src="EXAMPLES/hanshul.jpg">
+</details>
 
 ## I
 
@@ -467,6 +467,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/jlengstorf.png">
+  </details>
+- [Jatin Yadav](https://github.com/jatiinyadav)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/jatiinyadav.png">
   </details>
 - [Jaye Hernandez](https://github.com/jayehernandez)
   <details>
@@ -530,7 +535,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/knightbearr.png">
   </details>
-  
 - [Kiran Babu Muddam](https://github.com/kiranmuddam)
   <details>
     <summary>Preview</summary>
@@ -553,7 +557,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/loftwah.png">
-  </details>  
+  </details>
 - [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
   <details>
     <summary>Preview</summary>
@@ -569,7 +573,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/lucafluri.jpg">
   </details>
-  
 - [Lunar Lynix](https://github.com/lunarlynix)
   <details>
     <summary>Preview</summary>
@@ -793,6 +796,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## R
+
 - [Rahul Dhanola](https://github.com/DHANOLA)
   <details>
     <summary>Preview</summary>
@@ -1026,7 +1030,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
   Too large to fit, too fun to not play!
   </details>
-  
+
 - [Tim James](https://github.com/Tim-W-James)
   <details>
     <summary>Preview</summary>
