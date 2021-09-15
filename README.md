@@ -468,6 +468,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/jlengstorf.png">
   </details>
+- [Jatin Yadav](https://github.com/jatiinyadav)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/jatiinyadav.png">
+  </details>
 - [Jaye Hernandez](https://github.com/jayehernandez)
   <details>
     <summary>Preview</summary>
