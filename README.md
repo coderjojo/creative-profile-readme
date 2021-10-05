@@ -900,6 +900,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="https://user-images.githubusercontent.com/78422995/127335711-590c57fb-ede2-4dda-8a0f-6a310e131221.png">
   </details>
+- [Salim Oyinlola](https://github.com/salimcodes)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/salimcodes.png">
+  </details>
 - [Sarfaraz Ahmad](https://github.com/GoogolDKhan)
   <details>
     <summary>Preview</summary>
