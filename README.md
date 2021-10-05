@@ -291,6 +291,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/darshanr27.png">
   </details>
 
+- [DavidsDvm](https://github.com/DavidsDvm)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/DavidsDvm.png">
+  </details>
+
 - [Dedar Alam](https://github.com/devded)
     <details>
       <summary>Preview</summary>
