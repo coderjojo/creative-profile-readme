@@ -349,6 +349,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <img src="EXAMPLES/Dineshkarthik.png">
     </details>
 
+- [Dipanjan De](https://github.com/bacon-delight)
+    <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/Dipanjan.png">
+    </details>
+
 - [Douglas Ferreira](https://github.com/DouglasDRF)
     <details>
       <summary>Preview</summary>
