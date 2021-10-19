@@ -422,7 +422,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [hashfx](https://github.com/hashfx)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/hashfx.jpeg">
+    <img src="EXAMPLES/hashfx.png">
   </details>
 - [Hemaraj Dhakal](https://github.com/Hemraj183)
   <details>
