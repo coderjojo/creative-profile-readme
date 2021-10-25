@@ -1155,6 +1155,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/yashsehgal.png">
   </details>
 
+- [Yauhen Kavalchuk](https://github.com/yauhenkavalchuk)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/yauhenkavalchuk.png">
+  </details>  
+
 ## Z
 
 - [zmcx16](https://github.com/zmcx16)
