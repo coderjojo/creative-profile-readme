@@ -601,11 +601,15 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/lucafluri.jpg">
   </details>
-  
 - [Lunar Lynix](https://github.com/lunarlynix)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/lunarlynix.png">
+  </details>
+- [Luis Silva](https://github.com/luis-gustavoj)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/luis-gustavoj.png">
   </details>
 
 ## M
