@@ -290,6 +290,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/danilobbezerra.png">
   </details>
+  
+ - [Dario De Nardi](https://github.com/dariodenardi)
+   <details>
+     <summary>Preview</summary>
+     <img src="EXAMPLES/dariodenardi.png">
+   </details>
+  
 - [Darshan R](https://github.com/darshanr27)
   <details>
     <summary>Preview</summary>
