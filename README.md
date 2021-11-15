@@ -404,6 +404,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/fadyamer.PNG">
   </details>
+- [furkan-gulsen](https://github.com/Furkan-Gulsen)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/furkan-gulsen.png">
+  </details>
 
 ## G
 
