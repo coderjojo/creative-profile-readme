@@ -404,6 +404,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/fadyamer.PNG">
   </details>
+- [furkan-gulsen](https://github.com/Furkan-Gulsen)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/furkan-gulsen.png">
+  </details>
 
 ## G
 
@@ -830,14 +835,14 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 - [Pranjal Gupta](https://github.com/pranjal36)
   <details>
-  		<summary>Preview</summary>
-  		<img src="EXAMPLES/pranjal36.PNG">
+      <summary>Preview</summary>
+      <img src="EXAMPLES/pranjal36.PNG">
   </details>
 
 - [Pratik Kumar](https://github.com/pr2tik1)
   <details>
-  		<summary>Preview</summary>
-  		<img src="EXAMPLES/pr2tik1.png">
+      <summary>Preview</summary>
+      <img src="EXAMPLES/pr2tik1.png">
   </details>
 - [Prasad Narkhede](https://github.com/p014ri5)
   <details>
