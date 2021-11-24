@@ -918,6 +918,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/rohitsaini.png">
   </details>
+  
+- [Rohit Jain](https://github.com/Rohit19060)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Rohit19060.png">
+  </details>
 
 - [Ronan D'Souza](https://github.com/ronan696)
   <details>
