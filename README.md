@@ -764,6 +764,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/initishbhatt.png">
   </details>
+- [nixdonut](https://github.com/nixdonut)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/nixdonut.PNG">
+  </details>
 
 ## O
 
