@@ -455,7 +455,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
    <summary>Preview</summary>
    <img src="EXAMPLES/hanshul.jpg">
- </details>
+   </details>
 
 ## I
 
@@ -1078,6 +1078,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/Sumanth-Talluri.png">
   </details>
 
+- [SynthesisDu](https://github.com/SynthesisDu)
+  <details>
+      <summary>Preview</summary>
+      <img src="EXAMPLES/SynthesisDu.jpg">
+  </details>
+  
 - [System-Glitch](https://github.com/System-Glitch)
   <details>
       <summary>Preview</summary>
