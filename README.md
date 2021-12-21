@@ -269,6 +269,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ms314006.png">
   </details>
+- [chinmay29hub](https://github.com/chinmay29hub)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/chinmay29hub.png">
+  </details>
 
 ## D
 
