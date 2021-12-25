@@ -231,6 +231,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/bdougie.png">
   </details>
+- [Bugahontas](https://github.com/bugahontas)
+<details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/bugahontas.png">
+</details>
 
 ## C
 
