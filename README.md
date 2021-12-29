@@ -917,6 +917,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/RafaelOFreitas.png">
   </details>
+- [Ravi M Damor](https://github.com/ravithemore)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ravithemore.png">
+ </details>
 - [Ray Arayilakath](https://github.com/RayhanADev)
   <details>
     <summary>Preview</summary>
