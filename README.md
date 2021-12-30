@@ -244,6 +244,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/cdthomp1.png">
   </details>
+- [Camila L. Oliveira](https://github.com/clcmo)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/clcmo.png">
+  </details>
 - [Candida Noronha](https://github.com/Candida18)
   <details>
     <summary>Preview</summary>
