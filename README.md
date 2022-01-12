@@ -259,6 +259,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/accomigt.png">
   </details>
+ - [Caroline Heloíse](https://github.com/Carol42)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Carol42.png">
+  </details>
 - [Chiraag Kakar](https://github.com/chiraag-kakar)
   <details>
     <summary>Preview</summary>
