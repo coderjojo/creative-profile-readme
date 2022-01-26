@@ -24,5 +24,5 @@ Commit message format: feat: Added [add your Profile Name>] profile :zap:
 ## Considerations
 
 - Please don't upload big screenshots
-- Don't use GIFs, GIFs can be too much for some people with low bandwidth (or navigating from a phone), also if the height is too large it can cover all the viewport and be unrespectful of others' profiles.
-- Be sure the screenshot does DON'T show any image or text promoting real, psychological, or simulated violence against any individual or group. If any profile is found violating this, should be removed.
+- Don't use GIFs, GIFs can be too much for some people with low bandwidth (or navigating from a phone), also if the height is too large it can cover all the viewport and being unrespectful of others' profiles.
+- Be sure the screenshot DOESN'T show any image or text promoting real, psychological, or simulated violence against any individual or group. If any profile is found violating this, should be removed.
