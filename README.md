@@ -741,6 +741,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/murshidazher.png">
   </details>
+  
+- [Murari Sabavath](https://github.com/murarisabavath)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/murarisabavath.png">
+  </details>
 
 ## N
 
