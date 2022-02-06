@@ -1099,7 +1099,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/vimalverma558.png">
   </details>
-  - [Vikash](https://github.com/vikash2806)
+- [Vikash](https://github.com/vikash2806)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/vikash.png">
