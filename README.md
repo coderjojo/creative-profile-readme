@@ -623,35 +623,40 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/lachlan-dev.jpg">
   </details>
-- [Loftwah](https://github.com/loftwah)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/loftwah.png">
-  </details>  
-- [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
-  <details>
-    <summary>Preview</summary>
-    <img src="EXAMPLES/lukas-batema.jpg">
-  </details>
 - [Leandro Simões](https://github.com/leandrosimoes)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/leandrosimoes.png">
+  </details>
+- [Loftwah](https://github.com/loftwah)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/loftwah.png">
   </details>
 - [Luca Fluri](https://github.com/lucafluri)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/lucafluri.jpg">
   </details>
-- [Lunar Lynix](https://github.com/lunarlynix)
+- [Lucas Henrique](https://github.com/LucasHenrique-dev)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/lunarlynix.png">
+    <img src="EXAMPLES/lucas-henrique.png">
   </details>
 - [Luis Silva](https://github.com/luis-gustavoj)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/luis-gustavoj.png">
+  </details>
+- [Lukas-Batema](https://github.com/Lukas-Batema/Lukas-Batema)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/lukas-batema.jpg">
+  </details>
+- [Lunar Lynix](https://github.com/lunarlynix)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/lunarlynix.png">
   </details>
 
 ## M
