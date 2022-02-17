@@ -1116,10 +1116,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 - [Suman Chandra](https://github.com/ajay02111)
-<details>
-  <summary>Preview</summary>
-  <img src="EXAMPLES/ajay02111.png">
-</details>
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ajay02111.png">
+  </details>
 
 - [Sumanth Talluri](https://github.com/Sumanth-Talluri)
   <details>
