@@ -88,6 +88,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ahsankhan26.PNG">
   </details>
+- [Suman Chandra](https://github.com/ajay02111)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/ajay02111.png">
+  </details>  
 - [Akas Rai](https://github.com/akasrai)
   <details>
     <summary>Preview</summary>
