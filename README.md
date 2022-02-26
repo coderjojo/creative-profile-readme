@@ -206,6 +206,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/BereketSemagn.png">
   </details>
+- [Bhumika Tewary](https://github.com/bhumikatewary)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Bardiesel.png">
+  </details>
 - Bilgehan Gecici (profile deleted or username changed)
   <details>
     <summary>Preview</summary>
