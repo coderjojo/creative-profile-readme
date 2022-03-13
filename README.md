@@ -1180,6 +1180,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/timjames.png">
   </details>
+  
+- [Trinib](https://github.com/trinib/)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/trinib.png">
+  </details>
 
 ## U
 
