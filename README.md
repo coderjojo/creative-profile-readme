@@ -697,6 +697,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/mgershovitz.png">
   </details>
+- [Mei Sun](https://github.com/meisun0107)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/meisun0107.png">
+  </details>
 - [Michele Righi](https://github.com/mikyll)
   <details>
     <summary>Preview</summary>
