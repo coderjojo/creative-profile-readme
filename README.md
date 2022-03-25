@@ -443,6 +443,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## G
 
+- [Gabriel Arruda](https://github.com/gabriel-arrvda)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/gabriel-arrvda.png">
+  </details>
+
 - [Gabriel Xavier](https://github.com/gabrielmxavier)
   <details>
     <summary>Preview</summary>
