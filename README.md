@@ -797,6 +797,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/nellyXinwei.png">
   </details>
+- [NghiaTran0502](https://github.com/NghiaTran0502)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/NghiaTran0502.png">
+  </details>
 - [Nikunj Sharma](https://github.com/nouveau-riche)
   <details>
     <summary>Preview</summary>
