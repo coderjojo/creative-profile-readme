@@ -1235,6 +1235,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/vimalverma558.png">
   </details>
+- [Vikash Kumar](https://github.com/Codefreak69)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/VikashKumar.png">
+  </details>
 - [Vishwasa Navada K](https://github.com/vishwasnavadak)
   <details>
     <summary>Preview</summary>
