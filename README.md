@@ -1220,6 +1220,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## V
 
+- [Vaibhav Vikas](https://github.com/vaibhavvikas)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/vaibhavvikas.png">
+  </details>
 - [Vatana Chhorn](https://github.com/VatanaChhorn)
   <details>
     <summary>Preview</summary>
