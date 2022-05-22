@@ -135,6 +135,17 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/anacaroliness9.png">
   </details>
 
+- [Andrew Grant](https://github.com/Andrew6rant)
+  <details>
+    <summary>Preview</summary>
+    <a href="https://github.com/Andrew6rant/Andrew6rant">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
+        <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+      </picture>
+    </a>
+  </details>
+
 - [Anh-Thi DINH](https://github.com/dinhanhthi)
   <details>
     <summary>Preview</summary>
