@@ -12,7 +12,7 @@ This repository was inspired from [Developer Portfolios](https://github.com/emma
 
 Make your Profile look good & Inspire other's. Don't forget to leave :star: if you found this helpful.
 
-**Jump to:**  | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
+**Jump to:** | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
 ---
 
@@ -87,7 +87,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/ahsankhan26.PNG">
-  </details>  
+  </details>
 - [Akas Rai](https://github.com/akasrai)
   <details>
     <summary>Preview</summary>
@@ -231,12 +231,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/braydonwang.png">
-  </details>  
+  </details>
 - [breakdowns](https://github.com/breakdowns)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/breakdowns.png">
-  </details>  
+  </details>
 - [Brian Douglas](https://github.com/bdougie)
   <details>
     <summary>Preview</summary>
@@ -326,13 +326,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/danilobbezerra.png">
   </details>
-  
- - [Dario De Nardi](https://github.com/dariodenardi)
-   <details>
-     <summary>Preview</summary>
-     <img src="EXAMPLES/dariodenardi.png">
-   </details>
-  
+- [Dario De Nardi](https://github.com/dariodenardi)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/dariodenardi.png">
+  </details>
+
 - [Darshan R](https://github.com/darshanr27)
   <details>
     <summary>Preview</summary>
@@ -570,6 +569,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/jjeanjacques10.png">
   </details>
+- [Jeremy Erik Leong](https://github.com/JeremyL95)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/jeremyl95.png">
+  </details>
 - [Jessica Lim](https://github.com/jessicalim8)
   <details>
     <summary>Preview</summary>
@@ -622,7 +626,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/knightbearr.png">
   </details>
-  
 - [Kiran Babu Muddam](https://github.com/kiranmuddam)
   <details>
     <summary>Preview</summary>
@@ -634,6 +637,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/kwangsing3.png">
   </details>
+
 ## L
 
 - [L0um15](https://github.com/L0um15)
@@ -774,7 +778,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/murshidazher.png">
   </details>
-  
 - [Murari Sabavath](https://github.com/murarisabavath)
   <details>
     <summary>Preview</summary>
@@ -925,6 +928,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 
 ## R
+
 - [Rahul Dhanola](https://github.com/DHANOLA)
   <details>
     <summary>Preview</summary>
@@ -1120,7 +1124,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
      <img src="EXAMPLES/SP-XD.png">
    </details>
    
-   
+
 - [SparkScratch-P (Prodyumna Pal) ](https://github.com/SparkScratch-P)
    <details>
      <summary>Preview</summary>
@@ -1171,7 +1175,6 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <summary>Preview</summary>
       <img src="EXAMPLES/SynthesisDu.jpg">
   </details>
-  
 - [System-Glitch](https://github.com/System-Glitch)
   <details>
       <summary>Preview</summary>
@@ -1208,13 +1211,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
   Too large to fit, too fun to not play!
   </details>
-  
+
 - [Tim James](https://github.com/Tim-W-James)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/timjames.png">
   </details>
-  
 - [Trinib](https://github.com/trinib/)
   <details>
     <summary>Preview</summary>
@@ -1311,7 +1313,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/yauhenkavalchuk.png">
-  </details>  
+  </details>
 
 ## Z
 
