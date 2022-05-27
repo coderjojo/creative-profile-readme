@@ -304,6 +304,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/danielcaballero.png">
   </details>
 
+- [Daniel Cavero](https://github.com/danielex1999)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/danielex1999.png">
+  </details>
+
 - [Daniel Moya](https://github.com/dmoyadev)
   <details>
     <summary>Preview</summary>
