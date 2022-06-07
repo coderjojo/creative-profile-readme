@@ -992,6 +992,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/RishikaGhosh.jpg">
   </details>
 
+- [Ritam Chakraborty](https://github.com/RitamChakraborty)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/RitamChakraborty.jpg">
+  </details>
+
 - [Reski Mulud Muchamad](https://github.com/reskimulud)
   <details>
     <summary>Preview</summary>
