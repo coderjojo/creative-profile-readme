@@ -350,10 +350,10 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/DavidsDvm.png">
   </details>
 
-- [Dean Harold P. Abad](https://github.com/MumuNiMochii)
+- [Dean Harold P. Abad](https://github.com/DeanAbad)
     <details>
       <summary>Preview</summary>
-      <img src="EXAMPLES/MumuNiMochii.png">
+      <img src="EXAMPLES/DeanAbad.png">
     </details>
 
 - [Dedar Alam](https://github.com/devded)
