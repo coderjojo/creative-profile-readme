@@ -58,6 +58,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/AdamAlston.png">
   </details>
+- [Aditya Kumar](https://github.com/AdityaKumar28)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/adityakumar28.png">
+  </details>
 - [Adnan Azmee](https://github.com/adnanazmee)
   <details>
     <summary>Preview</summary>
