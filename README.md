@@ -737,7 +737,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Miguel22247](https://github.com/Miguel22247)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/miguel22247.png">
+    <img src="EXAMPLES/Miguel22247.png">
   </details>
 - [Mikhail Chigrin](https://github.com/frozrt)
   <details>
