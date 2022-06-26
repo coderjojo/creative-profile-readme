@@ -952,6 +952,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/p014ri5.png">
   </details>
+- [Mars Hsu](https://github.com/Pudding124)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Pudding124.png">
+  </details>
 
 ## R
 
