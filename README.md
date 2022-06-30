@@ -1174,6 +1174,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Spiderpig86.jpg">
   </details>
+- [Stefan Herold](https://github.com/blackjacx)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/blackjacx.png">
+  </details>
+  
 - [Sudip Mondal](https://github.com/sudip-mondal-2002)
   <details>
     <summary>Preview</summary>
