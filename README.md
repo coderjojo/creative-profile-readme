@@ -199,6 +199,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Arunsridher.png">
   </details>
+- [Aryan Upadhyay](https://github.com/aryan-upa)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/aryan-upa.png">
+  </details>
 - [Asmit Malakannawar](https://github.com/Asmit2952)
   <details>
     <summary>Preview</summary>
