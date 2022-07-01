@@ -142,7 +142,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Amay Jain](https://github.com/vrindavan)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/Amay.png">
+    <img src="EXAMPLES/vrindavan.png">
   </details>
 
 - [Ana Caroline Sanchez Silva](https://github.com/anacaroliness9)
