@@ -406,6 +406,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <summary>Preview</summary>
   <img src="EXAMPLES/deetoo.png">
     </details>
+    
+- [Derek Mohr (OneMohrTime)](https://github.com/onemohrtime)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/onemohrtime.jpg">
+  </details>
 
 - [DenverCoder1](https://github.com/DenverCoder1)
   <details>
