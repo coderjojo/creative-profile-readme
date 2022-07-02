@@ -145,6 +145,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/vrindavan.png">
   </details>
 
+- [Aman Kumar](https://github.com/amankrx)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/amankrx.png">
+  </details>
+  
 - [Ana Caroline Sanchez Silva](https://github.com/anacaroliness9)
   <details>
     <summary>Preview</summary>
@@ -204,6 +210,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/Arunsridher.png">
+  </details>
+- [Aryan Upadhyay](https://github.com/aryan-upa)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/aryan-upa.png">
   </details>
 - [Asmit Malakannawar](https://github.com/Asmit2952)
   <details>
@@ -730,6 +741,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/mark123jesper.png">
   </details>
+- [Mars Hsu](https://github.com/Pudding124)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Pudding124.png">
+  </details>
 - [Matteas Eden](https://github.com/Matteas-Eden)
   <details>
     <summary>Preview</summary>
@@ -814,6 +830,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/murarisabavath.png">
+  </details>
+- [mrdulin](https://github.com/mrdulin)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/mrdulin.png">
   </details>
 
 ## N
@@ -1161,7 +1182,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
      <summary>Preview</summary>
      <img src="EXAMPLES/SP-XD.png">
    </details>
-   
+
 
 - [SparkScratch-P (Prodyumna Pal) ](https://github.com/SparkScratch-P)
    <details>
@@ -1180,6 +1201,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Spiderpig86.jpg">
   </details>
+- [Stefan Herold](https://github.com/blackjacx)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/blackjacx.png">
+  </details>
+  
 - [Sudip Mondal](https://github.com/sudip-mondal-2002)
   <details>
     <summary>Preview</summary>
