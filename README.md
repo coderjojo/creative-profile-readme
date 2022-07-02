@@ -660,6 +660,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img src="EXAMPLES/KasRoudra.jpeg">
   </details>
 
+- [Kavin Valli](https://github.com/kavinvalli)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/kavinvalli.png">
+  </details>
+
 - [Knightbearr](https://github.com/knightbearr)
   <details>
     <summary>Preview</summary>
