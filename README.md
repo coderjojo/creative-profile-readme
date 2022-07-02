@@ -823,6 +823,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/murarisabavath.png">
   </details>
+- [mrdulin](https://github.com/mrdulin)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/mrdulin.png">
+  </details>
 
 ## N
 
