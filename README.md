@@ -138,11 +138,19 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/Amandewatnitrr.png">
   </details>
+
+- [Amay Jain](https://github.com/vrindavan)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/vrindavan.png">
+  </details>
+
 - [Aman Kumar](https://github.com/amankrx)
   <details>
     <summary>Preview</summary>
     <img src="EXAMPLES/amankrx.png">
   </details>
+  
 - [Ana Caroline Sanchez Silva](https://github.com/anacaroliness9)
   <details>
     <summary>Preview</summary>
