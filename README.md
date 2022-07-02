@@ -728,6 +728,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/mark123jesper.png">
   </details>
+- [Mars Hsu](https://github.com/Pudding124)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/Pudding124.png">
+  </details>
 - [Matteas Eden](https://github.com/Matteas-Eden)
   <details>
     <summary>Preview</summary>
