@@ -20,7 +20,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [AaGiingu](https://github.com/Giingu)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/AAGii.png">
+    <img src="EXAMPLES/AaGii.png">
   </details>
 - [Aakarsh B](https://github.com/Aakarsh-B)
   <details>
