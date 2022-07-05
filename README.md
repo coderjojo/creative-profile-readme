@@ -856,6 +856,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/nakulbhati.png">
   </details>
+- [Nahuel Carrizo](https://github.com/Nahuel61920)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/nahuel61920.png">
+  </details>
 - [Naina Upadhyay](https://github.com/naina25)
   <details>
     <summary>Preview</summary>
