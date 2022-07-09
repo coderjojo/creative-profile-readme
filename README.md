@@ -187,7 +187,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Apinan Yogaratnam](https://github.com/apinanyogaratnam)
   <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/apinanyogaratnam.jpep">
+    <img src="EXAMPLES/apinanyogaratnam.jpeg">
   </details>
 - [Ari](https://github.com/ari-hacks)
   <details>
