@@ -636,6 +636,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## K
 
+- [Karan Chandekar](https://github.com/KaranChandekar)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/karan.png">
+  </details>
+
 - [Karina Chichifoi](https://github.com/TryKatChup)
   <details>
     <summary>Preview</summary>
