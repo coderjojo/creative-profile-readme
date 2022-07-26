@@ -235,6 +235,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/avinal.png">
   </details>
+- [Adrien de Peretti (adrien2p)](https://github.com/adrien2p)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/adrien2p.png">
+  </details>
 
 ## B
 
