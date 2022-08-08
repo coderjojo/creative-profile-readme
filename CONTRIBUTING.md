@@ -16,7 +16,7 @@ Working on your first Pull Request? Refer [First Contribution Guide](https://git
     </details>
     ```
 
-    The image must be **max 640 px height, can be PNG or JP(E)G only**.
+    The image must be **max 640 px height, can be WEBP only**.
 5. Commit changes and push. **Note: Follow commit message format else pull request will be rejected** <br />
 Commit message format: feat: Added [add your Profile Name>] profile :zap:
 6. Open and submit a PR. :tada:
