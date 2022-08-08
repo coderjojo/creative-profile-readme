@@ -12,7 +12,7 @@ Working on your first Pull Request? Refer [First Contribution Guide](https://git
     ```html
     <details>
         <summary>Preview</summary>
-        <img src="EXAMPLES/<Username>.png">
+        <img src="EXAMPLES/<Username>.webp">
     </details>
     ```
 
