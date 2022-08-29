@@ -947,6 +947,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## P
 
+- [Peter Wilfahrt](https://github.com/p-w)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/p-w.webp">
+  </details>
 - [Pato Montecchiarini](https://github.com/pmontecchiarini)
   <details>
     <summary>Preview</summary>
