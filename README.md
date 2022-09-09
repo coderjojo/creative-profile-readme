@@ -1344,6 +1344,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/vaibhavvikas.webp">
   </details>
+- [Varun Kumar Tiwari](https://github.com/varunKT001)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/varunKT001.webp">
+  </details>
 - [Vatana Chhorn](https://github.com/VatanaChhorn)
   <details>
     <summary>Preview</summary>
