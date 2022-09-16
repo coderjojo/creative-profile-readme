@@ -559,6 +559,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/IbrahimOlayinka.webp">
   </details>
+- [Ike](https://github.com/magic-ike)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/magic-ike.webp">
+  </details>
 - [Israel Laguan](https://github.com/Israel-Laguan/Israel-Laguan)
   <details>
     <summary>Preview</summary>
