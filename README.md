@@ -1170,6 +1170,13 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
    <img loading="lazy" src="EXAMPLES/recurshawn.webp">
   </details>
 
+- [Shikhar Gupta](https://github.com/shikhar13012001)
+  <details>
+   <summary>Preview</summary>
+   <img loading="lazy" src="EXAMPLES/shikhar13012001.webp">
+  </details>
+
+
 - [Shree Vatsa N](https://github.com/vatsa287)
   <details>
    <summary>Preview</summary>
