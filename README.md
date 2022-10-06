@@ -263,6 +263,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/bloedboemmel.webp">
   </details>
+- [BolisettySujith](https://github.com/BolisettySujith)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/BolisettySujith.webp">
+  </details>
 - [Braydon Wang](https://github.com/braydonwang)
   <details>
     <summary>Preview</summary>
