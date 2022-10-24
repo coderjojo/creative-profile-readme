@@ -1415,6 +1415,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img loading="lazy" src="EXAMPLES/Willnaoosmith.webp">
   </details>
 
+- [Wvle](https://github.com/oayodeji)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/wvle.webp">
+  </details>
+
 ## Y
 
 - [Yashita Namdeo](https://github.com/yashitanamdeo)
