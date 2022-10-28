@@ -1148,6 +1148,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/samyukthasudhakar.webp">
   </details>
+- [Sanajit Jana](https://github.com/sanajitjana)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/sanajitjana.webp">
+  </details>
 - [Sarfaraz Ahmad](https://github.com/GoogolDKhan)
   <details>
     <summary>Preview</summary>
