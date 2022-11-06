@@ -316,6 +316,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/chiraag-kakar.webp">
   </details>
+- [Chandan Kushwaha](https://github.com/chandanck22)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/chandan.webp">
+  </details>
 - [Claudio Wunder](https://github.com/ovflowd)
   <details>
     <summary>Preview</summary>
