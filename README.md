@@ -53,6 +53,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/sisodiya2421.webp">
   </details>
+- [AbTrax](https://github.com/AbTrax)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/AbTrax.webp">
+  </details>
 - [acervenky](https://github.com/acervenky)
   <details>
     <summary>Preview</summary>
@@ -315,6 +320,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/chiraag-kakar.webp">
+  </details>
+- [Chandan Kushwaha](https://github.com/chandanck22)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/chandan.webp">
   </details>
 - [Claudio Wunder](https://github.com/ovflowd)
   <details>
@@ -1337,6 +1347,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/trinib.webp">
   </details>
+- [Thang Truong](https://github.com/yensubldg)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/yensubldg.webp">
+  </details>
 
 ## U
 
@@ -1413,6 +1428,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <details>
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/Willnaoosmith.webp">
+  </details>
+
+- [Wvle](https://github.com/oayodeji)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/wvle.webp">
   </details>
 
 ## Y
