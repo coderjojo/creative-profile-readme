@@ -529,6 +529,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img loading="lazy" src="EXAMPLES/soriano.webp">
   </details>
 
+- [Guilherme Luis](https://github.com/GuilhermeLuisFranca404)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/GuilhermeLuisFranca404.webp">
+  </details>
+
 ## H
 
 - [Halfrost](https://github.com/halfrost)
