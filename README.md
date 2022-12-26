@@ -553,9 +553,14 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   </details>
 - [Hanshul Chandel](https://github.com/hanshulll)
   <details>
-   <summary>Preview</summary>
-   <img loading="lazy" src="EXAMPLES/hanshul.webp">
-   </details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/hanshul.webp">
+  </details>
+- [Henry](https://github.com/dragonstar41)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/dragonstar41.webp">
+  </details>
 
 ## I
 
