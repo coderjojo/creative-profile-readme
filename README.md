@@ -1045,7 +1045,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Prayag Patel](https://github.com/prayagp8)
   <details>
     <summary>Preview</summary>
-    <img loading="lazy" src="EXAMPLES/p014ri5.webp">
+    <img loading="lazy" src="EXAMPLES/gip-profile.webp">
   </details>
 
 ## R
