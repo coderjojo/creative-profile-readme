@@ -261,8 +261,8 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
  
 - [Bhagawat Adhikari](https://github.com/BhagawatAdhikari/bhagawatadhikari)
      <details>
-         <summary>Preview</summary>
-         <img src="EXAMPLES/BhagawatAdhikari.webp">
+        <summary>Preview</summary>
+        <img src="EXAMPLES/BhagawatAdhikari.webp">
      </details>
   
 - Bilgehan Gecici (profile deleted or username changed)
