@@ -931,6 +931,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/nouveau-riche.webp">
   </details>
+- [Nikita Babko ](https://github.com/nikitababko)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/nikitababko.webp">
+  </details>
 - [Nikita Jain ](https://github.com/nikita1610)
   <details>
     <summary>Preview</summary>
