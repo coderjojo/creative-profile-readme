@@ -784,6 +784,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## M
 
+- [M1troll](https://github.com/M1troll)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/M1troll.webp">
+  </details>
 - [mahmoud miehob](https://github.com/MahmoudMiehob)
   <details>
     <summary>Preview</summary>
