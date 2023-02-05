@@ -1056,6 +1056,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/p014ri5.webp">
   </details>
+- [Priyanshu Roy](https://github.com/roypriyanshu02)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/roypriyanshu02.webp">
+  </details>
 
 ## R
 
