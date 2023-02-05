@@ -480,6 +480,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/blueset.webp">
   </details>
+- [Ednei Almeida](https://github.com/edmaxi)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/EdMaxi.webp">
+  </details>
 - [Emerson Thompson](https://github.com/thompsonemerson)
   <details>
     <summary>Preview</summary>
