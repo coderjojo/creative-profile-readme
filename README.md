@@ -33,6 +33,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/AakashSinha.webp">
   </details>
+- [Abdullah Rafi](https://github.com/iar01)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/abdullah.webp">
+  </details>
 - [Abhinandan Trilokia](https://github.com/Trilokia)
   <details>
     <summary>Preview</summary>
