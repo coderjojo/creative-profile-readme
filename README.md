@@ -1214,6 +1214,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/sauravchamoli.webp">
   </details>
+  
+- [Schleidens Dev](https://github.com/Schleidens)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/SchleidensDev.webp">
+  </details>
 
 - [Shaan Khan](https://github.com/ShaanCoding)
   <details>
