@@ -1492,6 +1492,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img loading="lazy" src="EXAMPLES/yauhenkavalchuk.webp">
   </details>
 
+- [Yogesh](https://github.com/vibrantfix)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/yogesh.webp">
+  </details>
 ## Z
 
 - [zmcx16](https://github.com/zmcx16)
