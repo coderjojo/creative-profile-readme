@@ -118,6 +118,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/imakash3011.webp">
   </details>
+- [Akshat Kumar](https://github.com/KyloRen04)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/KyloRen04.webp">
+  </details>
 - [Amado Abaca](https://github.com/amadoabaca)
   <details>
     <summary>Preview</summary>
