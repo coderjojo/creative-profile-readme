@@ -1492,6 +1492,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img loading="lazy" src="EXAMPLES/yauhenkavalchuk.webp">
   </details>
 
+- [Yi Yunseok](https://github.com/yi-yunseok)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/yi-yunseok.webp">
+  </details>
+
 ## Z
 
 - [zmcx16](https://github.com/zmcx16)
