@@ -879,6 +879,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/M0nica.webp">
   </details>
+  </details>
+- [Montasim](https://github.com/montasim)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Montasim.webp">
+  </details>
 - [Moshfiqur Rahman Rony](https://github.com/moshfiqrony)
   <details>
     <summary>Preview</summary>
