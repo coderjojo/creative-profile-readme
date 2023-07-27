@@ -1008,6 +1008,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/patrickguo.webp">
   </details>
+- [Paulo Granthon](https://github.com/paulo-granthon)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/paulo-granthon.webp">
+  </details>
 - [Pavel Rahman](https://github.com/pavstar619)
   <details>
     <summary>Preview</summary>
