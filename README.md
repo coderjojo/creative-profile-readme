@@ -507,6 +507,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/EsratMaria.webp">
   </details>
+- [Exoad](https://github.com/exoad)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/Exoad.webp">
+  </details>
 
 ## F
 
