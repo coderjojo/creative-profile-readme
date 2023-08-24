@@ -913,7 +913,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/mrdulin.webp">
   </details>
-- [Mehedi](https://github.com/devbytemehedi)
+- [Mehedi](https://github.com/devbytemehedi/devbytemehedi/tree/main)
     <details>
     <summary>Preview</summary>
     <img loading="lazy" src="./EXAMPLES/devbytemehedi.webp">
