@@ -166,6 +166,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <img loading="lazy" src="EXAMPLES/anacaroliness9.webp">
   </details>
 
+- [Anas Boubechra](https://github.com/AnasBoubechra)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/cschad.webp">
+  </details>
+
 - [Andrew Grant](https://github.com/Andrew6rant)
   <details>
     <summary>Preview</summary>
