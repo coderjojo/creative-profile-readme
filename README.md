@@ -914,6 +914,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/mrdulin.webp">
   </details>
+ - [Mrunal Vartak](https://github.com/mruna7)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/mruna7.webp">
+  </details>
 
 ## N
 
