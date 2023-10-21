@@ -889,6 +889,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
       <summary>Preview</summary>
       <img loading="lazy" src="EXAMPLES/Mridul2820.webp">
   </details>
+ [Mrunal Vartak ](https://github.com/mruna7)
+  <details>
+      <summary>Preview</summary>
+      <img loading="lazy" src="EXAMPLES/Mridul2820.webp">
+  </details>
 - [Muhammad Sameer Farooq](https://github.com/msameerfarooq)
   <details>
     <summary>Preview</summary>
