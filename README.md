@@ -443,7 +443,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
   <summary>Preview</summary>
   <img loading="lazy" src="EXAMPLES/DenverCoder1.webp">
     </details>
-
+- [Devagys rattan](https://github.com/devagya-rattan)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="Devagyarattan.webp">
+  </details>
 - [Devesh Kumar Singh](https://github.com/Devesh-19)
   <details>
     <summary>Preview</summary>
