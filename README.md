@@ -522,6 +522,12 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 
 ## G
 
+- [Gopal Meena](https://github.com/CodexLiner)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/codex.webp">
+  </details>
+
 - [Gabriel Arruda](https://github.com/gabriel-arrvda)
   <details>
     <summary>Preview</summary>
